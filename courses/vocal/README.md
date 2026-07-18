@@ -12,7 +12,7 @@ lessons/lesson-XX/
 └── homework.md         # 老师明确布置的练习与作业
 ```
 
-`record-extraction-prompt.md` 是每次 ChatGPT Record 结束后使用的提取提示词。先将它发送给生成了 Record 的 ChatGPT 聊天，再把输出完整贴回给 Codex；Codex 会把内容归档到对应课次的两个文件中。
+每次 ChatGPT Record 结束后，在当前对话向 Codex 索取声乐课提取提示词；将提示词发送给生成了 Record 的 ChatGPT 聊天，再把输出完整贴回给 Codex。Codex 会把内容归档到对应课次的两个文件中。
 
 ## 记录原则
 
