@@ -31,3 +31,24 @@
 | `día` | 天 / 白天。 | 本课作为阳性名词学习；其复数形式为 `días`。 |
 | `buenas` | 好的（阴性复数）。 | 与阴性复数名词配合，如 `buenas tardes`。 |
 | `buenos` | 好的（阳性复数）。 | 与阳性复数名词配合，如 `buenos días`。 |
+
+## 第 4 课
+
+| 单词 / 短句 | 语义 | 用法与说明 |
+| --- | --- | --- |
+| `hablar` | 说；说某种语言。 | `Hablo` = 我说，`hablas` = 你说。常用 `hablar + 语言`。 |
+| `lengua` | 语言；舌头。 | 本课用复数 `lenguas` 表示“语言”；`idioma` 也可表示语言。 |
+| `español` | 西班牙语；西班牙的。 | 作语言名词：`Hablo español.`；也可作形容词。 |
+| `alemán` | 德语；德国的／德国人。 | 本课作语言名词使用。 |
+| `inglés` | 英语；英国的／英国人。 | 本课作语言名词使用。 |
+| `francés` | 法语；法国的／法国人。 | 本课作语言名词使用。 |
+| `un poco de` | 一点…… | 固定数量表达，后接名词：`un poco de inglés`。 |
+| `medio` | 一半；半个。 | 在 `medio española` 中作副词，表示“一半”，不随阴阳性变化。 |
+| `solo` | 只；仅仅。 | 副词：`Solo hablo inglés.` |
+| `practicar` | 练习。 | `Practico mucho.` 表示“我练得很多”；可补出对象，如 `Practico español.` |
+| `de dónde` | 从哪里。 | 用于询问来源：`¿De dónde eres?` |
+| `acento` | 口音。 | 阳性名词：`el acento`。 |
+| `ser` | 是。 | 本课出现 `soy`（我是）、`eres`（你是）；用于国籍、身份和来源。 |
+| `mexicano / mexicana` | 墨西哥男性／女性；墨西哥的。 | 国籍词随人物性别变化：`Soy mexicano.` / `Soy mexicana.` |
+| `español / española` | 西班牙男性／女性；西班牙的。 | 国籍词随人物性别变化。 |
+| `suizo / suiza` | 瑞士男性／女性；瑞士的。 | 国籍词随人物性别变化。 |
