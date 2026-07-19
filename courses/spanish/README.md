@@ -4,7 +4,7 @@
 
 ```text
 lessons/lesson-XX/
-├── class-questions.md  # 课中问题、知识点、下节课要问老师
+├── class-questions.md  # 课中问题、知识点、待补充信息
 ├── homework.md         # 课后作业、练习计划、自查清单
 └── materials/          # 本课讲义、图片等辅助材料（如有）
 ```
