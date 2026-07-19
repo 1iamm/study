@@ -97,6 +97,10 @@
 
 朗读：`¿fran-CÉS? no, no… io SÓ-lo Á-blo bién in-GLÉS, PRÁC-ti-co MÚ-cho`
 
+> [!WARNING]
+> **个人发音卡点：** `francés → fran-cés`（重读最后一音节）；`practico → prac-ti-co`（重读倒数第二音节）。
+> 本课先按音节与重读练习；具体发音细节待课堂或老师示范确认。
+
 - `francés`：法语；先重复该词，表示确认或惊讶。
 - `no`：否定词，“不”。
 - `yo`：我；通常可省略，此处说出来用于强调、对比。
