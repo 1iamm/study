@@ -36,20 +36,41 @@
 
 | 单词 / 短句 | 语义 | 用法与说明 |
 | --- | --- | --- |
-| `hablar` | 说；说某种语言。 | `Hablo` = 我说，`hablas` = 你说。常用 `hablar + 语言`。 |
-| `Hasta luego.` | 再见 / 待会儿见。 | 由 `hasta`（直到）和 `luego`（之后、随后）构成的常用告别语；写作两个词。 |
-| `lengua` | 语言；舌头。 | 本课用复数 `lenguas` 表示“语言”；`idioma` 也可表示语言。 |
-| `español` | 西班牙语；西班牙的。 | 作语言名词：`Hablo español.`；也可作形容词。 |
-| `alemán` | 德语；德国的／德国人。 | 本课作语言名词使用。 |
-| `inglés` | 英语；英国的／英国人。 | 本课作语言名词使用。 |
-| `francés` | 法语；法国的／法国人。 | 本课作语言名词使用。 |
-| `un poco de` | 一点…… | 固定数量表达，后接名词：`un poco de inglés`。 |
-| `medio` | 一半；半个。 | 在 `medio española` 中作副词，表示“一半”，不随阴阳性变化。 |
-| `solo` | 只；仅仅。 | 副词：`Solo hablo inglés.` |
-| `practicar` | 练习。 | `Practico mucho.` 表示“我练得很多”；可补出对象，如 `Practico español.` |
-| `de dónde` | 从哪里。 | 用于询问来源：`¿De dónde eres?` |
-| `acento` | 口音。 | 阳性名词：`el acento`。 |
-| `ser` | 是。 | 本课出现 `soy`（我是）、`eres`（你是）；用于国籍、身份和来源。 |
-| `mexicano / mexicana` | 墨西哥男性／女性；墨西哥的。 | 国籍词随人物性别变化：`Soy mexicano.` / `Soy mexicana.` |
-| `español / española` | 西班牙男性／女性；西班牙的。 | 国籍词随人物性别变化。 |
-| `suizo / suiza` | 瑞士男性／女性；瑞士的。 | 国籍词随人物性别变化。 |
+| `Hola.` | 你好。 | 用于开场问候；本课出现在自我介绍句中。 |
+| `yo` | 我。 | 主语代词；西语动词变位已包含人称信息时，常可省略。 |
+| `Me llamo ...` | 我叫…… | 自我介绍的常用说法；`Yo me llamo ...` 也正确，但 `yo` 可以省略。 |
+| `llamar` | 叫；称呼。 | 本课说明其基本语义；自我介绍中使用反身形式 `me llamo`。 |
+| `tú` | 你。 | 与 `te llamas` 对应。 |
+| `él / ella / usted` | 他／她／您。 | 本课与 `se llama` 对应；`usted` 用于礼貌称呼。 |
+| `te llamas` | 你叫…… | `llamarse` 的第二人称单数形式。 |
+| `se llama` | 他／她／您叫…… | 与 `él`、`ella`、`usted` 对应。 |
+| `¿Cómo se llama?` | 您怎么称呼？ | 礼貌询问对方姓名；`cómo` 在疑问句中带重音符号。 |
+| `cómo` | 如何；怎么。 | 本课作为疑问词学习，需写重音并配合 `¿ ... ?`。 |
+| `Mucho gusto.` | 很高兴认识你。 | 自我介绍后的常用表达。 |
+| `Buenos días.` | 早上好／上午好。 | 本课按 12 点之前使用理解。 |
+| `el / la` | 阳性／阴性定冠词，相当于英语 the。 | 随名词阴阳性变化：`el mar`、`la playa`。 |
+| `un / una` | 阳性／阴性不定冠词，表示“一个”。 | 随名词阴阳性变化。 |
+| `¿Qué es esto?` | 这是什么？ | 回答时尽量使用带冠词的完整名词词组。 |
+| `la leche` | 牛奶。 | 用于说明名词应和冠词一起记，不只记 `leche`。 |
+| `la información` | 信息。 | 课堂用于说明名词前通常需要带冠词。 |
+| `la mano` | 手。 | 以 `-o` 结尾但为阴性的例外；连冠词一起记。 |
+| `la radio` | 收音机／广播。 | 以 `-o` 结尾但为阴性的例外；连冠词一起记。 |
+| `Suiza` | 瑞士。 | 国家名称拼读练习；本课初次读错后重新练习。 |
+| `Perú` | 秘鲁。 | 老师评价发音标准。 |
+| `México` | 墨西哥。 | 国家名称与字母读音练习；具体纠音细节未可靠转写。 |
+| `Estados Unidos` | 美国。 | 国家名称；后接元音开头词时可自然连读。 |
+| `Sevilla` | 塞维利亚。 | 西班牙南部城市；本课一度误猜为赞比亚。 |
+| `Madrid` | 马德里。 | 朗读时注意避免英语式发音。 |
+| `Austria / Australia` | 奥地利／澳大利亚。 | 本课作为易混淆的国家名称对比练习。 |
+| `ingeniero` | 工程师。 | 可用 `de` 补充所属行业或单位。 |
+| `empresa` | 公司。 | 例：`empresa de internet`。 |
+| `internet` | 互联网。 | 例：`empresa de internet`。 |
+| `de` | ……的；用于连接名词。 | 本课强调两个名词之间常用 `de` 连接。 |
+| `ingeniero de la empresa de internet` | 互联网公司的工程师。 | 课堂职业表达示例。 |
+| `el mar` | 海。 | 海边相关词汇。 |
+| `la playa` | 海滩／海边。 | 用于 `Vamos a la playa.`。 |
+| `la costa` | 海岸。 | 海边相关词汇。 |
+| `la costumbre` | 习惯。 | 课堂说明 `costumbre` 表示“习惯”。 |
+| `vamos` | 我们走吧／走吧。 | 在 `Vamos a la playa.` 中是第一人称复数动词形式；现阶段整体记忆即可。 |
+| `a` | 向；去往。 | 在 `a la playa` 中表示方向。 |
+| `Vamos a la playa.` | 我们去海滩吧。 | 先整体记忆，不必在本阶段深究动词变位。 |
