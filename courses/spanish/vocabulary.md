@@ -74,3 +74,34 @@
 | `vamos` | 我们走吧／走吧。 | 在 `Vamos a la playa.` 中是第一人称复数动词形式；现阶段整体记忆即可。 |
 | `a` | 向；去往。 | 在 `a la playa` 中表示方向。 |
 | `Vamos a la playa.` | 我们去海滩吧。 | 先整体记忆，不必在本阶段深究动词变位。 |
+
+## 第 5 课
+
+| 单词 / 短句 | 语义 | 用法与说明 |
+| --- | --- | --- |
+| `hablar` | 说；说话。 | 规则 `-ar` 动词；本节用它学习一般现在时变位。 |
+| `hablo / hablas / habla` | 我说／你说／他、她、您说。 | 分别对应 `yo`、`tú`、`él / ella / usted`。 |
+| `hablamos / habláis / hablan` | 我们说／你们说／他们、她们、诸位说。 | `habláis` 主要用于西班牙，重音在 `á`。 |
+| `ser` | 是。 | 不规则动词；用于身份、国籍和来源等表达。 |
+| `soy / eres / es` | 我是／你是／他、她、您是。 | 分别对应 `yo`、`tú`、`él / ella / usted`。 |
+| `somos / sois / son` | 我们是／你们是／他们、她们、诸位是。 | `sois` 主要用于西班牙。 |
+| `yo` | 我。 | 主语可根据上下文省略。 |
+| `tú / usted` | 你／您。 | `tú` 日常常用；`usted` 较正式，动词用第三人称单数。 |
+| `nosotros / nosotras` | 我们。 | 有男性或混合群体用 `nosotros`；全女性用 `nosotras`。 |
+| `vosotros / vosotras` | 你们。 | 主要用于西班牙；全女性用 `vosotras`。 |
+| `ellos / ellas / ustedes` | 他们／她们／诸位。 | `ustedes` 为复数“您／你们”；本节未细分地区用法。 |
+| `¡Hablas muy bien español!` | 你的西班牙语说得很好！ | 感叹句，朗读要有明显情绪与自然的句末下降。 |
+| `Soy de China.` | 我来自中国。 | `soy + de + 国家名称`；`de` 在这里可理解为“来自”。 |
+| `Sí, soy chino.` | 是的，我是中国人。 | `chino` 表示中国人／与中国相关；女性形式本节未展开。 |
+| `China / España` | 中国／西班牙。 | 国家名称；不要与 `chino`、`español` 混淆。 |
+| `español` | 西班牙语；西班牙人；西班牙的。 | 具体意思依据句子判断；本节用于 `Hablo español.`。 |
+| `¿De dónde eres?` | 你来自哪里？ | `dónde` 带重音；问句中的 `de` 不能省略。 |
+| `dónde` | 哪里。 | 本节作为特殊疑问词使用，带重音。 |
+| `¿Y qué lenguas hablas?` | 你会说什么语言？ | `y` 用于承接，也可省略；要读出问句语气。 |
+| `lengua` | 语言。 | 本课在问句中使用复数 `lenguas`。 |
+| `Hablo español.` | 我说西班牙语。 | `yo` 可省略。 |
+| `un poco de` | 一点…… | 固定结构，后接名词时 `de` 不能省略。 |
+| `un poco de inglés` | 一点英语。 | 用于表达语言能力。 |
+| `bien / muy bien` | 好地／很好、非常好。 | `bien` 修饰动作；`muy` 修饰 `bien`。具体语气还要结合场景。 |
+| `él / el` | 他／阳性定冠词。 | `él` 有重音，表示“他”；`el` 相当于英语 `the`。 |
+| `Ellas son de China.` | 她们来自中国。 | 课堂造句，老师确认正确。 |
