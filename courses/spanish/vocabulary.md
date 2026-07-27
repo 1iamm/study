@@ -111,6 +111,7 @@
 | 单词 / 短句 | 语义 | 用法与说明 |
 | --- | --- | --- |
 | `hasta luego` | 再见。 | 最通用的告别语；不要求明确下次见面的时间。 |
+| `chao` | 再见。 | 西语口语告别语，不用于正式书面语；意大利语 `ciao` 还可表示“你好”。 |
 | `hasta mañana` | 明天见。 | 明确知道明天会再见时使用。 |
 | `hasta esta noche` | 今晚见。 | 明确当晚会再见时使用；`esta` 的语法本课未展开。 |
 | `hasta pronto` | 很快再见／近期再见。 | 强调近期再见，或表达期待再见。 |
@@ -128,16 +129,19 @@
 | `camarero / camarera` | 男服务员／女服务员。 | 职业名词阴阳性的一组例子。 |
 | `secretario / secretaria` | 男秘书／女秘书。 | 职业名词阴阳性的一组例子。 |
 | `profesor / profesora` | 男老师／女老师。 | `profesor` 不应简单按英语 professor 理解为大学教授。 |
-| `mecánico` | 机械师／机械修理工。 | 本节职业词汇，也是下节检查重点之一。 |
-| `periodista` | 记者。 | 男女词形相同，以冠词区分：`el periodista / la periodista`。 |
+| `mecánico` | 机械师／机械修理工。 | 常见工作地点：`taller`；本节职业词汇，也是下节检查重点之一。 |
+| `periodista` | 记者。 | 男女词形相同，以冠词区分：`el periodista / la periodista`；与 `periódico`（报纸／报社相关）配对学习。 |
 | `ama de casa` | 家庭主妇。 | 本课作为固定职业表达学习。 |
-| `bar` | 酒吧。 | 工作地点词。 |
+| `bar` | 酒吧。 | 工作地点词；本课与 `camarero` 配对。 |
 | `hospital` | 医院。 | 工作地点词；注意不要按英语读法发音。 |
-| `colegio` | 学校。 | 本课按中小学或中学阶段的学校理解；不要按英语 `college` 发音。 |
-| `universidad` | 大学。 | 工作地点或教育场所词。 |
-| `oficina` | 办公室。 | 工作地点词。 |
+| `colegio` | 学校。 | 本课按中小学或中学阶段的学校理解；与 `profesor` 配对，不要按英语 `college` 发音。 |
+| `universidad` | 大学。 | 与 `catedrático`（教授）配对。 |
+| `oficina` | 办公室。 | 与 `secretaria` 配对。 |
 | `en casa` | 在家。 | `en` 表示地点。 |
 | `bueno / buena` | 好的。 | 形容词，随名词阴阳性配合；`buenos días`、`buenas noches`。 |
 | `grande` | 大的。 | 本课按词形不随阴阳性变化理解，如 `grande empresa`。 |
 | `novio / novia` | 男朋友／女朋友。 | 常见 `-o / -a` 阴阳性对应。 |
-| `amar / amo` | 爱／我爱。 | `amar` 是动词原形，`amo` 是第一人称单数变位；完整“我爱你”表达本课转写不可靠。 |
+| `catedrático` | 教授。 | 本课与 `universidad` 配对。 |
+| `periódico` | 报纸／报社相关。 | 本课与 `periodista` 配对学习。 |
+| `amar / amo` | 爱／我爱。 | `amar` 是动词原形，`amo` 是第一人称单数变位。 |
+| `Te amo.` | 我爱你。 | `te` 是“你”的宾格代词。 |

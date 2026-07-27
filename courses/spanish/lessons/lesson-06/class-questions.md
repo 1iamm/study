@@ -61,19 +61,35 @@
 
 | 表达 | 本课含义与使用场景 |
 | --- | --- |
-| `hasta luego` | 最通用的“再见”；无需明确下次何时见。 |
-| `adiós` | 普通“再见”，可用于口语和书面语。 |
+| `hasta luego` | 字面为“直到后来 / until later”；实际是最通用的“再见”，无需明确下次何时见。 |
+| `adiós` | 普通“再见”，可用于口语和书面语；本课按与 `hasta luego` 基本相近的告别语理解。 |
+| `chao` | 西语口语“再见”；不用于正式书面语。老师对比：意大利语 `ciao` 还可表示“你好”。 |
 | `hasta mañana` | 明天见；明确知道明天会见时使用。 |
 | `hasta esta noche` | 今晚见；明确当晚会再见时使用。 |
 | `hasta pronto` | 很快再见、近期再见；有期待不久再见的意味。 |
 | `hasta ahora` | 极短时间内再见，例如一小时内。 |
 | `hasta la vista` | 后会有期；更常见于文学或影视，不是日常首选。 |
 
+### 时间问候
+
+- `Buenas tardes.`：下午好。
+- `Buenas noches.`：晚安／晚上好；见面时可作夜间问候，分别或睡前可表示晚安。
+
 ### 新职业与地点词汇
 
-- 工作地点：`bar`（酒吧）、`hospital`（医院）、`taller`（修理厂）、`colegio`（学校，主要指中小学）、`universidad`（大学）、`oficina`（办公室）、`en casa`（在家）。
-- 职业：`médico / médica`、`camarero / camarera`、`secretario / secretaria`、`profesor / profesora`、`mecánico`、`periodista`、`ama de casa`、`programador`。
-- `periódico` 在本课的具体词义（报纸、报社或其他）转写不可靠，不纳入固定记忆。
+| 职业／身份 | 常见工作地点或相关词 |
+| --- | --- |
+| `mecánico`（机械师） | `taller`（修理厂） |
+| `camarero`（服务员） | `bar`（酒吧） |
+| `secretaria`（女秘书） | `oficina`（办公室） |
+| `profesor`（老师） | `colegio`（中小学） |
+| `catedrático`（教授） | `universidad`（大学） |
+| `periodista`（记者） | `periódico`（本课作为报纸／报社相关词记） |
+| `ama de casa`（家庭妇女） | `en casa`（在家里） |
+
+- `médico / médica` 是男／女医生；`mecánico` 才是机械师，不混淆。
+- `Te amo.`：我爱你。`amar` 是“爱”，`te` 是“你”的宾格代词。
+- `grande empresa`：大公司／大厂；本课用作“大的”+“公司”的例子。
 
 ## 本节反馈与复习优先级
 
@@ -86,7 +102,5 @@
 
 - `hablamos` 的课堂具体重音／口型提示。
 - `internet` 的老师示范音值。
-- `chao / ciao` 的课堂板书拼写。
 - `hasta esta noche` 中 `esta` 的完整语法说明。
-- `periódico` 在教材第 24 页的具体释义，以及“职业教育”相关词的准确西语。
-- 老师提到的“大学教授”专门词与“我爱你”的完整表达；本次转写不能可靠还原。
+- “职业教育”相关词的准确西语。
