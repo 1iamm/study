@@ -82,14 +82,24 @@
 
 ### 核心知识与句型
 
-- **第 5 课：** 不看表说出 `hablar` 和 `ser` 的六组变位。
-- **第 6 课：** 说出 3 组职业—地点：`mecánico — taller`、`camarero — bar`、`secretaria — oficina`。
-- **第 6 课：** 根据场景选择一句告别语：`hasta luego`、`hasta mañana`、`hasta pronto`。
-- **第 4—5 课：** 用一句完成自我介绍：`Me llamo ...`、`Soy de China.`、`Hablo ...`。
+| 自测问题 | 标准答案 |
+| --- | --- |
+| `hablar` 的六组现在时变位？ | `hablo, hablas, habla, hablamos, habláis, hablan`。 |
+| `ser` 的六组现在时变位？ | `soy, eres, es, somos, sois, son`。 |
+| “一个机械师在哪里工作？”及回答？ | `¿Dónde trabaja un mecánico?` → `Un mecánico trabaja en un taller.` |
+| 什么情况下用 `hasta luego / hasta mañana / hasta pronto`？ | `hasta luego`：通用再见；`hasta mañana`：明确明天见；`hasta pronto`：期待近期再见。 |
+| 怎样完成基础自我介绍？ | `Me llamo ...`（我叫……）；`Soy de China.`（我来自中国）；`Hablo ...`（我说……）。 |
 
 ### 词汇快速复习
 
-`yo`、`tú`、`él`、`usted`、`hablar`、`ser`、`trabajar`、`mecánico`、`taller`、`hasta luego`
+| 自测问题 | 标准答案 |
+| --- | --- |
+| `yo / tú / él / usted`？ | 我／你／他／您。`usted` 配第三人称单数动词。 |
+| `hablar / ser / trabajar`？ | 说／是／工作。 |
+| `mecánico / taller`？ | 机械师／修理厂。 |
+| `camarero / bar`？ | 服务员／酒吧。 |
+| `secretaria / oficina`？ | 女秘书／办公室。 |
+| `hasta luego`？ | 再见；最通用的告别语。 |
 
 ## 待补充
 
