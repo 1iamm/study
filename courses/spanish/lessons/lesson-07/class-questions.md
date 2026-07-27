@@ -78,12 +78,18 @@
 
 ## 艾宾浩斯复习（短清单）
 
-建议在**当天、次日、第 3 天、第 7 天**各花 5—10 分钟复习；每次只做以下内容：
+建议在**当天、次日、第 3 天、第 7 天**各花 5—10 分钟复习。每次先过知识／句型，再快速过一遍词汇：
+
+### 核心知识与句型
 
 - **第 5 课：** 不看表说出 `hablar` 和 `ser` 的六组变位。
 - **第 6 课：** 说出 3 组职业—地点：`mecánico — taller`、`camarero — bar`、`secretaria — oficina`。
 - **第 6 课：** 根据场景选择一句告别语：`hasta luego`、`hasta mañana`、`hasta pronto`。
 - **第 4—5 课：** 用一句完成自我介绍：`Me llamo ...`、`Soy de China.`、`Hablo ...`。
+
+### 词汇快速复习
+
+`yo`、`tú`、`él`、`usted`、`hablar`、`ser`、`trabajar`、`mecánico`、`taller`、`hasta luego`
 
 ## 待补充
 
