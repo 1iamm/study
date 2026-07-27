@@ -145,3 +145,36 @@
 | `periódico` | 报纸／报社相关。 | 本课与 `periodista` 配对学习。 |
 | `amar / amo` | 爱／我爱。 | `amar` 是动词原形，`amo` 是第一人称单数变位。 |
 | `Te amo.` | 我爱你。 | `te` 是“你”的宾格代词。 |
+
+## 第 7 课
+
+| 单词 / 短句 | 语义 | 用法与说明 |
+| --- | --- | --- |
+| `cero`—`quince` | 0—15。 | 本课要求优先背诵；完整对应表见第 7 课数字参考。 |
+| `dieciséis / diecisiete / dieciocho / diecinueve` | 16／17／18／19。 | `dieci- + 个位数`，连写且不用 `y`；`dieciséis` 要写重音。 |
+| `veinte` | 二十。 | 20。 |
+| `veintiuno`—`veintinueve` | 21—29。 | `veinti- + 个位数`，连写且不用 `y`；`veintidós`、`veintitrés`、`veintiséis` 要写重音。 |
+| `treinta / cuarenta / cincuenta / sesenta / setenta / ochenta / noventa` | 30／40／50／60／70／80／90。 | 30 以上的非整十数：整十数 + `y` + 个位数；注意 `sesenta` 和 `setenta`。 |
+| `uno / un` | 一／一个。 | `uno` 单独使用；在阳性单数名词前变为 `un`，如 `un melón`。 |
+| `¿A qué se dedica?` | 您从事什么工作／职业是什么？ | 礼貌询问职业；来自 `dedicarse a + 行业／活动`。 |
+| `dedicarse a` | 从事、投身于…… | 后接行业、领域或活动，不直接接具体职业名称。 |
+| `se dedica / me dedico` | 您、他、她从事……／我从事…… | 变位后自复代词放在动词前，并随人称变化。 |
+| `Me dedico al turismo.` | 我从事旅游业。 | `a + el = al`；`turismo` 在此表示旅游业。 |
+| `al` | 到……／向……；此处为 `a + el`。 | `a + el` 必须缩合为 `al`。 |
+| `¿Dónde trabajas?` | 你在哪里工作？ | `trabajas` 是第二人称单数。 |
+| `¿Y dónde trabaja?` | 那么，您在哪里工作？ | `trabaja` 与 `usted` 对应。 |
+| `En un restaurante mexicano.` | 在一家墨西哥餐厅。 | 口语简略回答；`mexicano` 放在名词后修饰 `restaurante`。 |
+| `hacer / haces` | 做／你做。 | `hacer` 是原形，`haces` 是第二人称单数。 |
+| `¿Qué haces?` | 你做什么／你在干什么／你是做什么的？ | 实际含义由语境决定。 |
+| `¿Trabajas?` | 你工作吗？ | 用于询问对方是否已经工作。 |
+| `estudiar / estudio / estudias` | 学习／我学习／你学习。 | 人称变位要与主语对应。 |
+| `¿Qué estudias?` / `Medicina.` | 你学什么？／医学。 | 用于询问与回答所学专业。 |
+| `sí` | 是、对。 | 肯定回答时必须写重音符号。 |
+| `¡Interesante!` | 真有意思！／很有趣！ | 感叹表达。 |
+| `Seguimos.` | 我们继续。 | 课堂继续进行时的常用表达。 |
+| `señor` | 先生。 | 正式场合可放在人名或姓氏前，如 `Señor Claudio`。 |
+| `avenida / paseo` | 大道／步道、散步道或步行街。 | 本节明确不要求背诵；`paseo` 注意强元音。 |
+| `izquierda / derecha` | 左／右。 | `izquierda` 的朗读得到老师肯定。 |
+| `vivir / vivo` | 居住、生活／我住。 | 本阶段先记“居住”；`vivo` 是第一人称单数。 |
+| `sótano uno / dos / tres` | 地下 1／2／3 层。 | 楼层表达。 |
+| `planta baja` | 地面层、底层。 | 西班牙楼层称呼中，地面层通常不按“一层”计算。 |
