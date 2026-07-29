@@ -6,6 +6,42 @@
 - 下节课口头检查。
 - 时长、次数与其他提交要求：未明确布置。
 
+### 数字表
+
+| 数字 | 西班牙语 | 数字 | 西班牙语 |
+| --- | --- | --- | --- |
+| 0 | `cero` | 8 | `ocho` |
+| 1 | `uno` | 9 | `nueve` |
+| 2 | `dos` | 10 | `diez` |
+| 3 | `tres` | 11 | `once` |
+| 4 | `cuatro` | 12 | `doce` |
+| 5 | `cinco` | 13 | `trece` |
+| 6 | `seis` | 14 | `catorce` |
+| 7 | `siete` | 15 | `quince` |
+
+| 数字 | 西班牙语 | 数字 | 西班牙语 |
+| --- | --- | --- | --- |
+| 16 | `dieciséis` | 23 | `veintitrés` |
+| 17 | `diecisiete` | 24 | `veinticuatro` |
+| 18 | `dieciocho` | 25 | `veinticinco` |
+| 19 | `diecinueve` | 26 | `veintiséis` |
+| 20 | `veinte` | 27 | `veintisiete` |
+| 21 | `veintiuno` | 28 | `veintiocho` |
+| 22 | `veintidós` | 29 | `veintinueve` |
+
+| 数字 | 西班牙语 | 数字 | 西班牙语 |
+| --- | --- | --- | --- |
+| 30 | `treinta` | 70 | `setenta` |
+| 40 | `cuarenta` | 80 | `ochenta` |
+| 50 | `cincuenta` | 90 | `noventa` |
+| 60 | `sesenta` | 100 | 本次讲义未列出 |
+
+- `16—19`：`dieci- + 个位数`，连写，不加 `y`。
+- `21—29`：`veinti- + 个位数`，连写，不加 `y`。
+- `31—99`：整十数 + `y` + 个位数，例如 `treinta y uno`（31）。
+- 重音重点：`dieciséis`、`veintidós`、`veintitrés`、`veintiséis`。
+- 老师要求的检查范围提到 `0—100`，但本次提供的数字讲义只列到 `90`；因此不补写 `100` 的西语形式。
+
 ## 2. 翻译练习：物主形容词
 
 > 以下题目直接由老师的《翻译下列句子》讲义转写；原 Word 未上传。讲义只给出中文题目，未提供标准西语答案，因此此处不擅自补写答案。
