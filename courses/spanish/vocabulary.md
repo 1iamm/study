@@ -182,3 +182,37 @@
 | `vivir / vivo` | 居住、生活／我住。 | 本阶段先记“居住”；`vivo` 是第一人称单数。 |
 | `sótano uno / dos / tres` | 地下 1／2／3 层。 | 楼层表达。 |
 | `planta baja` | 地面层、底层。 | 西班牙楼层称呼中，地面层通常不按“一层”计算。 |
+
+## 第 8 课
+
+| 单词 / 短句 | 语义 | 用法与说明 |
+| --- | --- | --- |
+| `primero / primer` | 第一／第一（省略形式）。 | `primero` 在阳性单数名词前变为 `primer`，如 `primer piso`。 |
+| `segundo` | 第二。 | 序数词。 |
+| `tercero / tercer` | 第三／第三（省略形式）。 | `tercero` 在阳性单数名词前变为 `tercer`。 |
+| `cuarto / quinto` | 第四／第五。 | 不要分别与 `cuatro`（四）、`quince`（十五）混淆。 |
+| `piso / planta` | 楼层／楼层。 | `piso` 也可表示一套住宅；`primera planta` 表示第一层。 |
+| `mejorar / mejoro` | 改善、提升／我改善、提升。 | 规则 `-ar` 动词第一人称单数：`-o`。 |
+| `móvil / celular` | 手机。 | 西班牙常用 `móvil`；拉丁美洲常用 `celular`。 |
+| `arroba` | `@` 符号。 | 用于读邮箱地址。 |
+| `guion / guion bajo` | 短横线／下划线。 | 分别对应 `-` 与 `_`。 |
+| `agencia de viajes` | 旅行社、旅游代理机构。 | 固定搭配。 |
+| `virtual` | 虚拟的、线上的。 | 注意判断形容词具体修饰哪个名词。 |
+| `tener` | 有、拥有。 | 不规则动词。 |
+| `tengo / tienes / tiene` | 我有／你有／他、她、您有。 | `tengo` 是不规则第一人称单数。 |
+| `tenemos / tenéis / tienen` | 我们有／你们有／他们、她们、各位有。 | `tenéis` 主要用于西班牙，注意重音。 |
+| `jefe / jefa` | 上司、负责人、老板。 | 适用范围较广。 |
+| `gerente` | 经理。 | 更偏具体职位，与 `jefe` 不完全相同。 |
+| `¿Eres el jefe?` | 你是负责人／老板吗？ | `eres` 是“你是”。 |
+| `Soy el gerente.` | 我是经理。 | 本课职业介绍句。 |
+| `mi / mis` | 我的。 | 前置非重读物主形容词；按后面名词单复数变化。 |
+| `tu / tus` | 你的。 | 本课作物主形容词时不带重音。 |
+| `su / sus` | 他、她、您、他们、她们、各位的。 | 具体拥有者看语境；单复数取决于后面名词。 |
+| `nuestro / nuestra / nuestros / nuestras` | 我们的。 | 按被修饰名词的阴阳性和单复数变化。 |
+| `vuestro / vuestra / vuestros / vuestras` | 你们的。 | 主要用于西班牙。 |
+| `mío / mía / míos / mías` | 我的。 | 后置时强调归属；单独替代名词时作物主代词。 |
+| `tuyo / tuya / tuyos / tuyas` | 你的。 | 后置重读物主形容词。 |
+| `suyo / suya / suyos / suyas` | 他、她、您、他们等的。 | 后置重读物主形容词，具体拥有者看语境。 |
+| `Mi casa es pequeña.` | 我的房子很小。 | 普通陈述，使用前置形式。 |
+| `La casa mía es pequeña.` | 我家的那套房子很小。 | 后置形式，强调或对比归属。 |
+| `¿Es mío?` | 这是我的吗？ | `mío` 单独替代名词，作物主代词。 |
