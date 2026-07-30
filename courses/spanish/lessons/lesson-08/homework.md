@@ -60,3 +60,17 @@
 
 - 重点：前置物主形容词与后面名词的单复数、阴阳性配合。
 - 提交方式与截止时间：未明确布置。
+
+### 已完成答案
+
+> 以下答案由学习者提供；仅做大小写和多余标记的排版整理，不补写未提供的题目。
+
+1. `Mis padres viven en mi casa.`
+2. `Mis amigos viven en la calle de Beijing.`
+3. `Los padres de Jim viven en la casa de Lisa.`
+4. `La tía de Juan vive en mi casa.`
+5. `Los nietos de Jim son coreanos.`
+6. `Sus amigos son chinos.`
+7. `Nuestro profesor es chino.` / `Nuestra profesora es china.`
+
+第 8—11 题：答案尚未提供。
