@@ -216,3 +216,49 @@
 | `Mi casa es pequeña.` | 我的房子很小。 | 普通陈述，使用前置形式。 |
 | `La casa mía es pequeña.` | 我家的那套房子很小。 | 后置形式，强调或对比归属。 |
 | `¿Es mío?` | 这是我的吗？ | `mío` 单独替代名词，作物主代词。 |
+
+## 第 9 课
+
+| 单词 / 短句 | 语义 | 用法与说明 |
+| --- | --- | --- |
+| `vender / vendemos` | 卖、销售／我们销售。 | `Vendemos viajes por internet.` 中 `vendemos` 是第一人称复数。 |
+| `viaje / viajes` | 旅行／旅行、旅游产品。 | `viajes` 为复数；课文中可理解为旅游产品。 |
+| `por internet` | 通过互联网、通过网络。 | `por` 在此表示方式或途径。 |
+| `veintidós / veintitrés / veintiséis` | 22／23／26。 | 都连写；三者都须写书面重音。 |
+| `¿Cómo se llama?` | 它／您叫什么名字？ | 具体对象依语境判断；`se llama` 为第三人称形式。 |
+| `Me llamo Claudio.` | 我叫 Claudio。 | 自我介绍姓名。 |
+| `funcionar / funciona bien` | 运转、运行／运转良好。 | `funciona` 是第三人称单数；已知主语时可省略。 |
+| `bien` | 好地、良好地。 | 副词，修饰动作或状态；`muy bien` 是“很好”。 |
+| `tener` | 有、拥有。 | 不规则动词；本课用于年龄表达。 |
+| `tengo / tienes / tiene` | 我有／你有／他、她、您有。 | `tengo` 是不规则第一人称单数。 |
+| `tenemos / tenéis / tienen` | 我们有／你们有／他们、她们、各位有。 | `tenéis` 有重音，主要用于西班牙。 |
+| `Tengo veintiocho años.` | 我 28 岁。 | 用 `tener + 数字 + años` 表达年龄。 |
+| `año / años` | 年；岁。 | 数字大于 1 时通常用复数 `años`。 |
+| `mamá / papá` | 妈妈／爸爸。 | `papá` 书面重音在末尾音节。 |
+| `y` | 和、并且。 | 用于连接词或同一主语的两个分句。 |
+| `vivir / vive` | 居住、生活／他、她、您住。 | `Mi papá ... y vive en Shanghái.` 中第二分句省略主语。 |
+| `trabajar` 及其变位 | 工作。 | `trabajo, trabajas, trabaja, trabajamos, trabajáis, trabajan`；`trabajáis` 带重音。 |
+| `necesitar` | 需要。 | 课文出现“我们需要一些资金”的表达。 |
+| `un poco de` | 一点、一些。 | 固定结构，后接名词。 |
+| `el capital / la capital` | 资金、资本／首都。 | 同形词，因冠词阴阳性不同而意义不同。 |
+| `tener contacto con` | 与……有联系／保持联系。 | 固定搭配；`con` 表“和、与”。 |
+| `con / sin` | 和、与／没有、不带。 | 课堂中作为相对词记忆。 |
+| `castellano` | 卡斯蒂利亚语；西班牙语。 | “西班牙语”的另一种称呼。 |
+| `paella` | 西班牙饭类菜肴。 | 常译“西班牙海鲜饭”，传统版本不一定含海鲜。 |
+| `media` | 一半、半份。 | 点餐时可表示半份。 |
+| `vino` | 葡萄酒。 | 饮品名词。 |
+| `tapas` | 西班牙小吃。 | 一类小份食物，不是单一菜名。 |
+| `africano` | 非洲人；非洲的。 | 具体词性和性别形式视句子而定。 |
+| `móvil / casa / colegio` | 手机／房子／学校。 | 老师提供的常用词背诵清单；这些词此前已出现，本课再次作为背诵项。 |
+| `libro / mesa / silla` | 书／桌子／椅子。 | 老师提供的常用词背诵清单。 |
+| `agua / pan / café` | 水／面包／咖啡。 | `café` 的重音需写出。 |
+| `ciudad / parque / autobús` | 城市／公园／公交车。 | `autobús` 的重音需写出。 |
+| `hospital / médico` | 医院／医生。 | `médico` 的重音需写出。 |
+| `madre / padre / amigo` | 母亲／父亲／朋友。 | 与口语化的 `mamá / papá` 对照记忆。 |
+| `gato / perro` | 猫／狗。 | 常用动物名词。 |
+| `sol / luna` | 太阳／月亮。 | 常用自然词汇。 |
+| `ropa / ordenador / comida` | 衣服／电脑／食物。 | `ropa` 是集合名词；`ordenador` 是西班牙常用“电脑”。 |
+| `cerca de` | 在……附近。 | 如 `cerca de mi casa`。 |
+| `algunos ... otros ...` | 一些人……，另一些人……。 | 用于对照两组人或事物。 |
+| `preferir` | 更喜欢。 | 短文中 `prefiere correr` 表示“他更喜欢跑步”。 |
+| `no tener prisa` | 不着急。 | 短文中的固定表达。 |
