@@ -262,3 +262,42 @@
 | `algunos ... otros ...` | 一些人……，另一些人……。 | 用于对照两组人或事物。 |
 | `preferir` | 更喜欢。 | 短文中 `prefiere correr` 表示“他更喜欢跑步”。 |
 | `no tener prisa` | 不着急。 | 短文中的固定表达。 |
+
+## 第 10 课
+
+| 单词 / 短句 | 语义 | 用法与说明 |
+| --- | --- | --- |
+| `contacto con` | 与……有联系／往来。 | `con` 后接联系对象。 |
+| `bonito` | 好看的、帅的、可爱的。 | 课堂用来说明形容词加 `-mente` 的构词。 |
+| `-mente` | ……地。 | 可分阴阳性的形容词先变阴性，再加此后缀。 |
+| `recibir / recibo` | 接收、接受／我接收、接待。 | `recibir` 是本课复习的 `-ir` 动词。 |
+| `Lo he recibido.` | 我已经收到了。 | 之前学过，本课由 `recibir` 关联复习。 |
+| `hacer / hacemos` | 做／我们做。 | `hacer` 的第一人称单数是特殊形式；本课不据转写补全。 |
+| `reserva / reservas` | 预约、预订／复数。 | 阴性名词。 |
+| `hacer una reserva` | 进行预约、预订。 | 固定搭配。 |
+| `correo electrónico` | 电子邮件。 | `correo` 是邮件／邮箱，`electrónico` 是电子的。 |
+| `o` | 或者。 | 相当于英语 `or`。 |
+| `Eso es.` | 对，就是这样。 | 课堂常用肯定表达。 |
+| `¿Qué hacen los clientes?` | 这些顾客做什么？ | `qué` 在前，主语可在动词后。 |
+| `para` | 为了；对于等。 | 结合整个句子理解，不能机械固定翻译。 |
+| `treinta y cuatro` | 三十四。 | 本课数字听辨练习。 |
+| `negro / blanco / rojo` | 黑色的／白色的／红色的。 | 颜色形容词。 |
+| `blanca` | 白色的（阴性）。 | `Blanca` 也可作女性名字。 |
+| `amarillo / verde / azul` | 黄色的／绿色的／蓝色的。 | `verde` 不按典型 `-o → -a` 变化。 |
+| `Es muy mayor.` | 他／她年纪很大。 | `mayor` 此处是年长的、年老的。 |
+| `muy bien` | 很好。 | 用于评价动作、状态或表现。 |
+| `hermano / hermana` | 兄弟／姐妹。 | 熟人称呼时 `hermano` 可带“哥们”感。 |
+| `amigo / amiga / novia` | 男性朋友／女性朋友／女朋友。 | `amiga` 不等于 `novia`。 |
+| `porque / ¿Por qué?` | 因为／为什么？ | 本课作对比；完整拼写规则待后续补充。 |
+| `pelo / ojos` | 头发／眼睛。 | 描述眼睛通常用复数 `ojos`。 |
+| `bastante` | 相当、挺。 | 程度弱于 `muy`。 |
+| `corto / largo` | 短的／长的。 | 可描述头发。 |
+| `bajo / baja` | 矮的、低的。 | 形式随所描述对象的性别变化。 |
+| `simpático / simpática` | 亲切的、好相处的。 | 描述人物性格。 |
+| `pero` | 但是。 | 高频转折词。 |
+| `moreno` | 小麦色的、棕色的。 | 本课具体修饰对象待补充。 |
+| `guapo / guapa` | 帅的／漂亮的、好看的。 | 形容词阳性／阴性形式。 |
+| `a veces` | 有时候、偶尔。 | 副词短语。 |
+| `demasiado` | 太、过于。 | 程度较高。 |
+| `serio / antipático` | 严肃的／不太讨人喜欢的。 | `antipático` 与 `simpático` 相对。 |
+| `llevar` | 本课人物描述中近似“有、带着”。 | 其他含义下节课再讲。 |
