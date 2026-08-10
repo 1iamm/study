@@ -301,3 +301,46 @@
 | `demasiado` | 太、过于。 | 程度较高。 |
 | `serio / antipático` | 严肃的／不太讨人喜欢的。 | `antipático` 与 `simpático` 相对。 |
 | `llevar` | 本课人物描述中近似“有、带着”。 | 其他含义下节课再讲。 |
+
+## 第 11 课
+
+| 单词 / 短句 | 语义 | 用法与说明 |
+| --- | --- | --- |
+| `el tifón` | 台风。 | 阳性名词；由学习者课堂手记确认。 |
+| `morado / morada` | 紫色的。 | 阳性／阴性形式。 |
+| `rubio` | 金黄色的、金发的。 | 与普通黄色 `amarillo` 区分。 |
+| `moreno / morena` | 深色、棕黑褐色或小麦色的。 | 可描述人物肤色或头发，依语境判断。 |
+| `pelo / pero` | 头发／但是。 | 易混词；`pero` 只表示转折。 |
+| `delgado` | 瘦的。 | 人物外貌形容词。 |
+| `llevar / llevo` | 携带、穿戴／我携带、穿戴。 | 可搭配衣服、眼镜、手表、首饰等。 |
+| `gafas` | 眼镜。 | 通常使用复数。 |
+| `alegre / sociable` | 快乐、高兴／合群、善于社交。 | 这两类形容词不按 `-o / -a` 改变性别。 |
+| `barba / bigote` | 胡子／上唇胡须、八字胡。 | 人物外貌词汇。 |
+| `sombrero` | 帽子。 | 课堂偏向较大帽檐的一类帽子。 |
+| `generoso` | 慷慨的、大方的。 | 人物性格形容词。 |
+| `un poco / bastante / muy / demasiado` | 有一点／相当、挺／很／太、过于。 | 本课按程度大致由弱到强排列。 |
+| `este / estos / esta / estas` | 这个／这些。 | 指靠近说话人的事物，按性别和数量变化。 |
+| `ese / esos / esa / esas` | 那个／那些。 | 指靠近听话人的事物。 |
+| `aquel / aquellos / aquella / aquellas` | 那个／那些。 | 指离说话者和听话者都远的事物。 |
+| `esta manzana` | 这个苹果。 | 指示词在名词前作限定。 |
+| `mi / mis` | 我的。 | 搭配单数／复数名词。 |
+| `mejor / mejores` | 最好的。 | 单数／复数形式。 |
+| `chico / chica` | 小伙子、男孩／小姑娘、女孩。 | 人物称呼的阳性／阴性形式。 |
+| `solo` | 单独地、独自地。 | 文章中用于“独自居住”。 |
+| `ser / estar` | 是／是、处于。 | 本课用 `ser` 表身份、性质、性格；用 `estar` 表状态。 |
+| `estoy / estás / está` | 我处于／你处于／他、她、您处于。 | `estás`、`está` 带书面重音。 |
+| `estamos / estáis / están` | 我们处于／你们处于／他们、她们、各位处于。 | `estáis`、`están` 带书面重音。 |
+| `casada` | 结婚的（阴性）。 | 本课作为婚姻状态与 `estar` 搭配理解。 |
+| `tímido` | 害羞的、胆怯的、内向的。 | `un poco tímido`：有一点害羞／内向。 |
+| `en el segundo piso` | 在二楼／第二层。 | `piso` 也可表示一套住房。 |
+| `mujer / hombre` | 女人、妻子／男人、丈夫。 | 具体含义依语境判断。 |
+| `el / la / los / las` | 阳单／阴单／阳复／阴复定冠词。 | 冠词与名词的性别和数量配合。 |
+| `están separados` | 他们处于分居状态。 | 动词和形容词均使用复数。 |
+| `mayor` | 年长的、年纪较大的。 | 如 `mujer mayor`。 |
+| `profesor / profesora` | 男老师／女老师。 | 职业名词的阳性／阴性形式。 |
+| `amable` | 和蔼的、和蔼可亲的。 | 人物性格形容词。 |
+| `hijo / hija / hijos / hijas` | 儿子／女儿／孩子们或儿子们／女儿们。 | 混合群体有男性用 `hijos`；全女性用 `hijas`。 |
+| `Tengo veintisiete años.` | 我 27 岁。 | 本课确认的年龄表达。 |
+| `Tengo el pelo corto.` | 我留短发。 | 自我介绍句。 |
+| `Soy muy simpático y sociable.` | 我很友善，也很合群。 | 用 `ser` 描述性格。 |
+| `Tengo los ojos marrones.` | 我的眼睛是棕色的。 | `ojos` 和 `marrones` 都用复数。 |
