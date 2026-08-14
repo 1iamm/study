@@ -344,3 +344,33 @@
 | `Tengo el pelo corto.` | 我留短发。 | 自我介绍句。 |
 | `Soy muy simpático y sociable.` | 我很友善，也很合群。 | 用 `ser` 描述性格。 |
 | `Tengo los ojos marrones.` | 我的眼睛是棕色的。 | `ojos` 和 `marrones` 都用复数。 |
+
+## 第 12 课
+
+| 单词 / 短句 | 语义 | 用法与说明 |
+| --- | --- | --- |
+| `chica / chico` | 年轻女性、小姑娘／小伙子、男孩。 | 本节人物称呼；准确形式由第 11 课旧记录补回。 |
+| `Tiene pelo largo.` | 他／她有长头发。 | `tiene` 来自 `tener`；主语可依上下文省略。 |
+| `de` | ……的、来自等。 | 介词，不发生人称变位；具体译法依语境。 |
+| `llevar / llevo` | 穿戴、携带／我穿戴、携带。 | 与身体特征使用的 `tener` 区分。 |
+| `poner` | 放置；本课涉及“穿上”的相关结构。 | 完整自反结构转写不可靠，暂不补写。 |
+| `estudiar / aprender` | 学习、研究／学习。 | 本课按系统学习与日常习得的侧重点作入门区分，不是绝对规则。 |
+| `futbolista` | 足球运动员。 | 词形可用于不同性别，需要结合冠词判断。 |
+| `Es un futbolista muy famoso.` | 他是一位非常有名的足球运动员。 | `muy famoso` 位于名词后。 |
+| `novio / novia` | 男朋友／女朋友。 | 本节复习旧词。 |
+| `solo / solamente` | 独自、只／仅仅、只。 | 本节语境中含义可相同；`solamente` 相对正式。 |
+| `qué / cómo / dónde` | 什么／怎么、如何／哪里。 | 作为特殊疑问词使用时带重音。 |
+| `¿Dónde vives?` | 你住在哪里？ | 本节学生主动说出并得到肯定。 |
+| `¿De dónde eres?` | 你来自哪里？ | `de` 在这里表示来源。 |
+| `por qué` | 为什么。 | 两个单词；疑问词 `qué` 带重音。 |
+| `agua` | 水。 | 本节用于不可数名词与“多少”的讲解。 |
+| `hablar / vivir / necesitar` | 说／居住／需要。 | 本节快速复习的高频动词。 |
+| `No tengo hermanos.` | 我没有兄弟姐妹／兄弟。 | `no` 放在变位动词前。 |
+| `hermano / hermanos` | 兄弟／兄弟、兄弟姐妹等复数。 | 具体含义依群体和语境。 |
+| `primo / dos primos` | 表、堂兄弟类亲属／两位表、堂兄弟类亲属。 | 数词直接修饰名词，不使用中文式量词。 |
+| `los hijos de Amelia` | Amelia 的孩子们／儿子们。 | 具体家庭关系依教材上下文。 |
+| `la hermana de mi madre` | 我妈妈的姐妹。 | 家庭关系结构。 |
+| `Sandro es mi primo favorito.` | Sandro 是我最喜欢的表／堂兄弟类亲属。 | `favorito` 修饰 `primo`。 |
+| `favorito` | 最喜欢的、最中意的。 | 形容词；课堂类比英语 `favorite`。 |
+| `trabajo` | 工作。 | 本节文章和快速复习中出现。 |
+| `guitarra / guitarrista` | 吉他／吉他手。 | 学生正确回答 `guitarrista`，老师肯定。 |
