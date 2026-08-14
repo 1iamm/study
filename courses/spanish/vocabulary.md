@@ -304,6 +304,24 @@
 
 ## 第 11 课
 
+### 前置物主形容词复习表
+
+| 拥有者 | 阳性单数名词 | 阴性单数名词 | 阳性复数名词 | 阴性复数名词 |
+| --- | --- | --- | --- | --- |
+| 我 `yo` | `mi` | `mi` | `mis` | `mis` |
+| 你 `tú` | `tu` | `tu` | `tus` | `tus` |
+| 他／她／您 `él / ella / usted` | `su` | `su` | `sus` | `sus` |
+| 我们 `nosotros/as` | `nuestro` | `nuestra` | `nuestros` | `nuestras` |
+| 你们 `vosotros/as` | `vuestro` | `vuestra` | `vuestros` | `vuestras` |
+| 他们／她们／各位 `ellos / ellas / ustedes` | `su` | `su` | `sus` | `sus` |
+
+- `mi / tu / su` 不随名词阴阳性变化，只随名词单复数变为 `mis / tus / sus`。
+- `nuestro / vuestro` 系列同时配合名词的阴阳性和单复数。
+- `tu`（你的）不带重音；`tú`（你）带重音。
+- `su / sus` 的具体拥有者需要根据上下文判断。
+
+### 本课其他词汇
+
 | 单词 / 短句 | 语义 | 用法与说明 |
 | --- | --- | --- |
 | `el tifón` | 台风。 | 阳性名词；由学习者课堂手记确认。 |
