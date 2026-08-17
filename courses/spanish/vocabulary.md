@@ -408,6 +408,10 @@
 | `menos + 形容词 + que` | 比……更不……。 | 反向比较级结构。 |
 | `el/la/los/las + más/menos + 形容词 + de` | 在某范围中最……／最不……。 | 定冠词配合所指名词的性别和数量。 |
 | `Marta es más inteligente que Ana.` | Marta 比 Ana 更聪明。 | 本课可靠确认的比较级完整例句。 |
+| `Marta es la más inteligente de la clase.` | Marta 是班里最聪明的。 | 正向最高级；`la` 是阴性单数定冠词。 |
+| `Marta es la chica más inteligente de la clase.` | Marta 是班里最聪明的女孩。 | 补出最高级结构中省略的名词 `chica`。 |
+| `Luis es menos alto que su hermano.` | Luis 没有他哥哥高。 | 反向比较级：`menos + 形容词 + que`。 |
+| `Esta es la menos interesante de todas las películas.` | 这是所有电影里面最没意思的一部。 | 反向最高级；`de` 引出比较范围。 |
 | `inteligente` | 聪明的。 | 本课用于比较级和最高级。 |
 | `mis amigos` | 我的朋友们。 | `mis` 与复数名词 `amigos` 搭配。 |
 | `Soy muy simpático y sociable.` | 我很友善，而且善于社交。 | 本节复习；课堂造句得到老师肯定。 |
