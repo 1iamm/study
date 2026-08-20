@@ -28,6 +28,35 @@
 14. `Tú prestas los libros a ellas. → Tú ____ prestas.`（你把书借给她们）
 15. `Él enseña la palabra a vosotros. → Él ____ enseña.`（他教你们这个单词）
 
+### 已完成答案与纠错
+
+> 按本课《代词》讲义和整组题目的改写方式评分：**11／15**。第 6 题的 `le` 在西班牙部分用法中可以接受，但本练习要求按宾格表选择，标准练习答案记为 `lo`。
+
+| 题号 | 我的答案 | 本练习答案 | 结果 | 说明 |
+| --- | --- | --- | --- | --- |
+| 1 | `le` | `se lo` | 需纠正 | 右侧不再保留 `un libro` 和 `Ana`，两者都要代词化：`le + lo → se lo`。`Yo se lo compro.` |
+| 2 | `me` | `me` | 正确 | `a mí` 是 `ver` 的直接宾语，替换为 `me`。 |
+| 3 | `nos la` | `nos la` | 正确 | `a nosotros → nos`，`una manzana → la`；先与后宾。 |
+| 4 | `te las` | `te las` | 正确 | `para ti → te`，`unas flores → las`。 |
+| 5 | `se los` | `se los` | 正确 | `a los niños → les`，`los cuadernos → los`；`les + los → se los`。 |
+| 6 | `le` | `lo` | 按本练习需纠正 | `conocer a él` 中的人是直接宾语，本课宾格表使用 `lo`：`Ella lo conoce.`。`le conoce` 属于西班牙可接受的阳性单数人称 leísmo，但不作为本练习目标答案。 |
+| 7 | `os la` | `os la` | 正确 | `a vosotros → os`，`la foto → la`。 |
+| 8 | `se lo` | `se lo` | 正确 | `a ella → le`，`el bolígrafo → lo`；`le + lo → se lo`。 |
+| 9 | `nos` | `nos` | 正确 | `buscar a nosotros` 中的人是直接宾语，使用 `nos`。 |
+| 10 | `te las` | `te las` | 正确 | `para ti → te`，`unas bebidas → las`。 |
+| 11 | `se las` | `se las` | 正确 | `a ellos → les`，`las cartas → las`；`les + las → se las`。 |
+| 12 | `te` | `te` | 正确 | `ayudar a ti` 中的人是直接宾语，使用 `te`。 |
+| 13 | `me la` | `me lo` | 需纠正 | `a mí → me`；`el coche` 是阳性单数，因此用 `lo`，不是 `la`。`Ella me lo vende.` |
+| 14 | `se los` | `se los` | 正确 | `a ellas → les`，`los libros → los`；`les + los → se los`。 |
+| 15 | `os las` | `os la` | 需纠正 | `a vosotros → os`；`la palabra` 是阴性单数，因此用 `la`，不是复数 `las`。`Él os la enseña.` |
+
+### 四道重点纠错
+
+1. `Yo se lo compro.`：目标句省略了书和 Ana，因此不能只写 `le`。
+2. `Ella lo conoce.`：`él` 是 `conocer` 的直接宾语；本练习用宾格 `lo`。
+3. `Ella me lo vende.`：代词与 `el coche` 配合，使用阳性单数 `lo`。
+4. `Él os la enseña.`：代词与 `la palabra` 配合，使用阴性单数 `la`。
+
 ## 2. 配套讲义
 
 - 老师提供的《代词》讲义已经收到。
@@ -52,4 +81,7 @@
 - 优先复习：宾格与与格两套代词表的区别。
 - 优先复习：“先与后宾”以及 `le / les → se`。
 - 优先复习：`Le doy un libro.` 是正确句子，不能记成“只能替换直接宾语”。
+- 优先复习第 1 题：原句中的直接、间接宾语都被省略时，需要同时写出两个代词，并应用 `le + lo → se lo`。
+- 优先复习第 6 题：`conocer` 的人是直接宾语；本课练习使用 `lo`，同时知道西班牙存在可接受的阳性单数人称 leísmo。
+- 优先复习第 13、15 题：第三人称宾格代词要与被替代名词的阴阳性和单复数配合，分别是 `el coche → lo`、`la palabra → la`。
 - 以上内容从第 15 课起可进入艾宾浩斯复习题；不回填到第 14 课自己的旧课复习区。
