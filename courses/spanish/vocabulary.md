@@ -466,3 +466,16 @@
 | `zapatos de baile` | 舞鞋。 | 弗拉门戈相关教材短语。 |
 | `ropa` | 衣服。 | 阴性集合名词。 |
 | `Guantanamera` | 《关塔那梅拉》。 | 老师推荐课后聆听的古巴歌曲名称。 |
+| `regalar / regalo` | 赠送／我赠送。 | 讲义例句 `Se lo regalo.` 表示“我把它送给他／她／您”。 |
+| `Se lo regalo.` | 我把它送给他／她／您。 | 与格在前、宾格在后；`le + lo` 变成 `se lo`。 |
+| `comprar` | 买。 | 作业中可搭配直接宾语和受益者，如给某人买某物。 |
+| `manzana / flor` | 苹果／花。 | 作业使用 `una manzana` 和复数 `unas flores`。 |
+| `cuaderno / bolígrafo` | 练习本／圆珠笔。 | 作业中的学习用品名词。 |
+| `conocer / buscar` | 认识／寻找。 | 作业中动作直接作用于人，练习宾格代词。 |
+| `mostrar / enseñar` | 展示给……看／教。 | 作业中同时涉及事物和接收者。 |
+| `traer / llevar` | 带来／带去、携带。 | 方向相对于说话者不同；本课作业练习其宾语。 |
+| `bebida / carta` | 饮料／信。 | 作业中使用复数 `bebidas / cartas`。 |
+| `enviar` | 发送、寄送。 | 作业句中为某人寄信。 |
+| `ayudar` | 帮助。 | 作业中练习“帮助某人”的宾格代词。 |
+| `vender / prestar` | 卖／借给。 | 作业中同时出现事物和接收者。 |
+| `coche / palabra` | 汽车／单词、词语。 | 作业中的直接宾语名词。 |
