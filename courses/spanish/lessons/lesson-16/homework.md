@@ -2,7 +2,7 @@
 
 ## 正式作业原题
 
-> 已收到老师的 `8.25.docx`，并转换为以下文字；原 Word 不上传。本文件共 13 题：5 道 `costar` 和 8 道 `cuánto / cuánta / cuántos / cuántas`。目前未填写答案。
+> 已收到老师的 `8.25.docx`，并转换为以下文字；原 Word 不上传。本文件共 13 题：5 道 `costar` 和 8 道 `cuánto / cuánta / cuántos / cuántas`。学习者已提交答案并完成纠错。
 
 ### 1. `costar` 造句／填空（5 题）
 
@@ -25,13 +25,53 @@
 7. `¿________ cuestan estos pantalones?`（这条裤子多少钱？）
 8. `¿________ leche bebes cada día?`（你每天喝多少牛奶？）
 
+## 我的答案与纠错
+
+### 结果
+
+- 总题数：13。
+- 正确：9。
+- 错误：4。
+- 本次为 Codex 课外检查，不是第 17 课老师课堂批改。
+
+### 1. `costar`（4/5）
+
+| 题号 | 我的答案 | 正确答案 | 结果 | 说明 |
+| --- | --- | --- | --- | --- |
+| 1 | `Cuánto cuesta la mesa?` | `¿Cuánto cuesta la mesa?` | 动词正确 | `la mesa` 是单数，所以用 `cuesta`；原题缺少开头 `¿`。 |
+| 2 | `¿Cuánto cuesta los zapatos?` | `¿Cuánto cuestan los zapatos?` | 错误 | `los zapatos` 是复数主语，动词必须用 `cuestan`。 |
+| 3 | `Esta camiseta cuesta 15 euros.` | 同左 | 正确 | `esta camiseta` 是单数主语。 |
+| 4 | `Las sillas cuestan muy poco dinero.` | 同左 | 正确 | `las sillas` 是复数主语。 |
+| 5 | `¿Cuánto cuestan estas dos botellas de agua?` | 同左 | 正确 | `estas dos botellas` 是复数主语。 |
+
+### 2. `cuánto / cuánta / cuántos / cuántas`（5/8）
+
+| 题号 | 我的答案 | 正确答案 | 结果 | 说明 |
+| --- | --- | --- | --- | --- |
+| 1 | `¿Cuántos libros tienes?` | 同左 | 正确 | `libros` 是阳性复数。 |
+| 2 | `¿Cuánto cuesta el bolígrafo?` | 同左 | 正确 | `cuánto` 修饰询价动词，不随商品变化。 |
+| 3 | `¿Cuánta agua hay en la botella?` | 同左 | 正确 | `agua` 是阴性单数，因此用 `cuánta`。 |
+| 4 | `¿Cuántas manzanas quieres comer?` | 同左 | 正确 | `manzanas` 是阴性复数。 |
+| 5 | `¡Cuánto frío hace hoy!` | 同左 | 正确 | `frío` 在这里是阳性单数。 |
+| 6 | `¡Cuántos flores hay en el jardín!` | `¡Cuántas flores hay en el jardín!` | 错误 | `flores` 是阴性复数。 |
+| 7 | `¿Cuántos cuestan estos pantalones?` | `¿Cuánto cuestan estos pantalones?` | 错误 | 询问价格时 `cuánto` 修饰 `cuestan`，不随复数商品变化。 |
+| 8 | `¿Cuántos leche bebes cada día?` | `¿Cuánta leche bebes cada día?` | 错误 | `leche` 是阴性单数；不存在 `cuántes` 这一形式。 |
+
+### 关键规则
+
+- `costar` 与商品主语配合：单数用 `cuesta`，复数用 `cuestan`。
+- `cuánto` 直接修饰名词时按性数变化：`cuánto / cuánta / cuántos / cuántas`。
+- `cuánto` 修饰动词、询问价格或程度时不作性数变化：`¿Cuánto cuestan ...?`。
+- 名词以 `-e` 结尾不代表修饰词也变成 `-e`；`leche` 是阴性单数，所以说 `cuánta leche`。
+- `cuántes` 不是西班牙语中的形式。
+
 ## 作业状态
 
 - 已收到：5 道 `costar` 题和 8 道 `cuánto` 题。
 - 第 16 课 Record 中老师还曾提到 20 道语格代词练习，但本次 Word 文件没有这部分；是否仍需完成：**待补充**。
 - 提交方式、截止时间：未明确。
 - 是否需要背诵、录音或视频：未明确。
-- 下一步：先独立作答，再把答案发给 Codex；届时保留原答案、正确答案和错误原因，作为后续复习材料。
+- 当前结果：已完成 Codex 检查，9/13；4 道错题已进入后续复习材料。
 
 ## 个人复习队列（不是老师新增作业）
 
