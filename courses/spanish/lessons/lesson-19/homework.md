@@ -19,7 +19,7 @@
 ### 优先背诵
 
 - 状态：`cansado / cansada`、`agotado / agotada`
-- 食品：`fruta`、`marisco`、`arroz`、`verdura`、`aceite de oliva`、`pollo`、`pescado`、`sal`、`carne`、`gambas`
+- 食品：`fruta`、`marisco`、`yogur`、`arroz`、`verdura`、`aceite de oliva`、`pollo`、`pescado`、`sal`、`carne`、`gambas`
 - 场景：`sala`
 - 计量：`un litro / dos litros`、`una barra de pan`、`medio kilo`、`gramo / gramos`、`lata`、`bolsa`、`una docena`
 - 饮品和文化：`vino tinto`、`vino blanco`、`gazpacho`、`mate`、`frijoles`、`sopa de frijoles`、`sangría`
@@ -60,7 +60,21 @@
 
 ## 待确认后再背
 
-- 酸奶、番茄、鸡蛋、公鸡、母鸡、活鱼、厨房。
+- 番茄、鸡蛋、公鸡、母鸡、活鱼、厨房；酸奶已在第 20 课确认为 `yogur`。
 - 一瓶、一包／包裹、透明、半打。
 
 这些词的中文语义可以确认，但 Record 没有稳定保存老师的准确西语词形，暂不把近音转写当答案。
+
+## 第 20 课检查结果
+
+| 第 19 课内容 | 第 20 课表现 | 结果 |
+| --- | --- | --- |
+| `yogur` | 明确说没有背，老师确认上节课讲过并拼读词形。 | 第一次明确遗忘；计划正确复现 2 次。 |
+| `verdura` | 无法立即答出，老师给出答案。 | 第一次明确遗忘；计划正确复现 3 次。 |
+| `la sal` | 词形和阴阳性均未答对；老师强调上节课讲过它是阴性。 | 第一次明确遗忘；计划正确复现 3 次。 |
+| `pescado / camarón / carne` | Record 的说话者归属不稳定。 | 无法判断，不新增遗忘或结算。 |
+| 一升牛奶 | 没有立即答出。 | 错误候选；完整课堂答案待确认。 |
+| 一条面包 | 回答近音后老师说“没问题”。 | 正确候选；由于词形未被录音保留，不结算。 |
+| 瓶 | 明确没有记住。 | 遗忘证据成立；准确西语词形仍待确认。 |
+
+本节没有证据表明老师检查了第 19 课的独立书面作业；主要检查的是词汇。
