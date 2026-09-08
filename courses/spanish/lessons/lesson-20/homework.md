@@ -47,7 +47,48 @@
 - `gusta / gustan` 不跟“喜欢的人”配合，而跟被喜欢的事物配合。
 - 单数名词用 `gusta`，复数名词用 `gustan`。
 - 后接动词原形时使用 `gusta`，例如 `Me gusta comer ...`。
-- 这里暂不提供答案，以便先保留为真实作业；完成后可把答案发给 Codex 检查并记录错题。
+- 本次答案和逐题纠错见下方“第一次作答批改”。
+
+## 第一次作答批改
+
+### 结果
+
+- 正确：第 1、2、7 题。
+- 需纠正：第 3、4、5、6、8、9、10 题。
+- 得分：`3 / 10`。
+- 主要问题：知道喜欢的人是谁，但没有稳定换成间接宾语代词 `me / te / le / nos / os / les`；有时把主格代词直接放入短结构。
+
+| 题号 | 我的答案 | 正确答案 | 结果 | 说明 |
+| --- | --- | --- | --- | --- |
+| 1 | `A mí me gusta el helado.` | 同左 | 正确 | “我”用 `a mí + me`；`el helado` 是单数，所以用 `gusta`。 |
+| 2 | `A ti te gustan las películas.` | 同左 | 正确 | “你”用 `a ti + te`；`las películas` 是复数，所以用 `gustan`。 |
+| 3 | `A Ana gusta el café.` | `A Ana le gusta el café.` | 需纠正 | `A Ana` 明确喜欢的人，但仍必须使用间接宾语代词 `le`。 |
+| 4 | `A nosotros nosotros guestan los libros.` | `A nosotros nos gustan los libros.` | 需纠正 | `a nosotros` 后使用 `nos`，不能再用主格 `nosotros`；正确拼写是 `gustan`。 |
+| 5 | `A vosotros vosotros gusta la música.` | `A vosotros os gusta la música.` | 需纠正 | `a vosotros` 对应短代词 `os`；`la música` 是单数，用 `gusta`。 |
+| 6 | `A allos allos gustan las playas.` | `A ellos les gustan las playas.` | 需纠正 | “他们”是 `ellos`，强调形式为 `a ellos`，对应短代词 `les`；`las playas` 是复数，用 `gustan`。 |
+| 7 | `me gustan los perros.` | `Me gustan los perros.` | 正确 | 结构正确；句首书写时把 `Me` 大写。 |
+| 8 | `te gusta la fruta.` | `Le gusta la fruta.` | 需纠正 | 中文主语是“他”，所以喜欢的人对应 `le`；`te` 表示“你”。 |
+| 9 | `nosotros gusta el deporte.` | `Nos gusta el deporte.` | 需纠正 | 短结构使用间接宾语代词 `nos`，不是主格 `nosotros`；`el deporte` 是单数，用 `gusta`。 |
+| 10 | `ustedes gustan las ciudades.` | `Les gustan las ciudades.` | 需纠正 | 短结构中“诸位”对应 `les`，不是主格 `ustedes`；`las ciudades` 是复数，用 `gustan`。 |
+
+### 错题规律
+
+1. 完整形式是：`a + 人称／人名 + 间接宾语代词 + gusta/gustan`。
+2. 即使已经写了 `A Ana`、`A ellos`，也不能省略 `le / les`。
+3. 不写强调形式时，直接用短代词：`Me gusta ...`、`Nos gusta ...`、`Les gustan ...`。
+4. `yo / tú / nosotros / vosotros / ellos / ustedes` 是主格代词，不能替代本结构中的 `me / te / nos / os / les`。
+5. `gusta / gustan` 只看后面的真正主语：单数用 `gusta`，复数用 `gustan`。
+
+### 后续复习标记
+
+- `A + 人／人称 + le/les` 不可漏：第 3 题。
+- `nosotros → nos`：第 4、9 题。
+- `vosotros → os`：第 5 题。
+- `ellos / ustedes → les`：第 6、10 题。
+- `él → le`，不是 `te`：第 8 题。
+- `gustan` 的正确拼写：第 4 题写成了 `guestan`。
+
+以上错题应优先进入后续课程的艾宾浩斯复习；本次是第 20 课新语法的课后作业错误，不计为“以前课程内容再次遗忘”。
 
 ## 老师资料中的扩展词
 
