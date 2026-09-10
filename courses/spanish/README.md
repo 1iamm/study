@@ -2,7 +2,7 @@
 
 ## 最新内容
 
-- 最新课程：[第 20 课课中问题](lessons/lesson-20/class-questions.md)｜[课后作业](lessons/lesson-20/homework.md)
+- 最新课程：[第 21 课课中问题](lessons/lesson-21/class-questions.md)｜[课后作业](lessons/lesson-21/homework.md)
 - 全部课程：[倒序课程索引](lessons/README.md)
 - 全部词汇：[西班牙语总词汇表](vocabulary.md)
 
@@ -20,6 +20,8 @@ lessons/lesson-XX/
 所有课程词汇统一维护在 [vocabulary.md](vocabulary.md)。文件按课次倒序分区，最新一课放在最前；每个词或短句标明学习课次，并在需要时补充课堂语境下的用法说明。不将只用于发音示范、但未讲词义的例词混入词汇表。
 
 ## 排序规则
+
+第 21 课起，老师明确“不用记／不要背”的项目不进入当课任何 GitHub 学习资料；明确要求记忆的逐项保留，拼写不清时优先向我确认。未要求背诵不等于不用记录；普通课堂内容与正式作业分开。完整规则见 [Project 指令](chatgpt-project-instructions.md)。
 
 - `vocabulary.md` 的课程模块按课次倒序，新增课程插在说明文字之后、上一节课之前。
 - `lessons/README.md` 的课程入口按课次倒序，新增课程插在表格第一行。
