@@ -2,7 +2,7 @@
 
 ## 最新内容
 
-- 最新课程：[第 21 课课中问题](lessons/lesson-21/class-questions.md)｜[课后作业](lessons/lesson-21/homework.md)
+- 最新课程：[第 22 课课中问题](lessons/lesson-22/class-questions.md)｜[课后作业](lessons/lesson-22/homework.md)
 - 全部课程：[倒序课程索引](lessons/README.md)
 - 全部词汇：[西班牙语总词汇表](vocabulary.md)
 

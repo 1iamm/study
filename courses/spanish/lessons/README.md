@@ -4,6 +4,7 @@
 
 | 课次 | 课中问题与知识点 | 课后作业 |
 | --- | --- | --- |
+| 第 22 课 | [查看](lesson-22/class-questions.md) | [查看](lesson-22/homework.md) |
 | 第 21 课 | [查看](lesson-21/class-questions.md) | [查看](lesson-21/homework.md) |
 | 第 20 课 | [查看](lesson-20/class-questions.md) | [查看](lesson-20/homework.md) |
 | 第 19 课 | [查看](lesson-19/class-questions.md) | [查看](lesson-19/homework.md) |
