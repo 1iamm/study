@@ -39,9 +39,59 @@
 
 第 8 题西文是 `la manzana`（苹果），动词是 `beber`（喝），但中文写“你喝果汁”。三者不一致。原题暂保留；请确认是否要按“喝果汁”修改宾语，或提供修订题目。此处不能当作你的错误，也不要把“喝苹果”作为正确例句背诵。
 
-### 作答记录
+## 第一次作答批改（2026-09-12）
 
-尚未提交本组作答，未批改、未计分，也未结算复习次数。
+结果：**14 / 20 正确（70%）**；6 题错误（1、4、5、8、13、16）。首次提交为 13 题正确、6 题错误、1 题未作答；随后第 7 题补答 `limpie` 正确，已合并计分。忽略粘贴时的下划线、加粗和句首大小写，只判断所填肯定命令式是否符合指定动词与人称。
+
+第 8 题仅批改明确指定的 `beber + tú`：应填 `bebe`。题面“苹果／果汁”的冲突另记为原题问题，不额外扣分，不把有问题的整句当标准西语。
+
+| 题号 | 我的答案 | 正确填空 | 结果 | 原因 |
+| --- | --- | --- | --- | --- |
+| 1 | `cerre` | `cierre` | 错误 | `cerrar` 的 usted 肯定命令式有词干变化 `e → ie`，不只是换词尾。 |
+| 2 | `come` | `come` | 正确 | `comer` 的 tú 形式。 |
+| 3 | `vivan` | `vivan` | 正确 | `vivir` 的 ustedes 形式。 |
+| 4 | `escuchen` | `escuche` | 错误 | 题目是单数 usted；`escuchen` 对应复数 ustedes。歌曲单复数不决定命令对象的人称。 |
+| 5 | `lea` | `lee` | 错误 | 题目是 tú：`lee`；`lea` 是 usted 的肯定命令式。 |
+| 6 | `hablen` | `hablen` | 正确 | `hablar` 的 ustedes 形式。 |
+| 7 | 首次未填；后补答 `limpie` | `limpie` | 正确（补答） | `limpiar` 的 usted 形式是 `limpie`；保留词干 `limpi-`，接 `-e`。最初空白不计遗忘。 |
+| 8 | `beba` | `bebe` | 错误（只评动词） | `beber` 的 tú 形式为 `bebe`；`beba` 对应 usted。原题宾语冲突另行保留。 |
+| 9 | `miren` | `miren` | 正确 | `mirar` 的 ustedes 形式。 |
+| 10 | `use` | `use` | 正确 | `usar` 的 usted 形式。 |
+| 11 | `abre` | `abre` | 正确 | `abrir` 的 tú 形式。 |
+| 12 | `caminen` | `caminen` | 正确 | `caminar` 的 ustedes 形式。 |
+| 13 | `seriva` | `sirva` | 错误 | `servir` 的此形式词干 `serv- → sirv-`（`e → i`），再接 `-a`；不是在 `ser-` 后额外插入 i。 |
+| 14 | `coge` | `coge` | 正确 | `coger` 的 tú 形式。 |
+| 15 | `planten` | `planten` | 正确 | `plantar` 的 ustedes 形式。 |
+| 16 | `cerre` | `cierre` | 错误 | 与第 1 题相同，漏掉 `e → ie`。两题分别计分，但同课遗忘课次不累加两次。 |
+| 17 | `bebe` | `bebe` | 正确 | `beber` 的 tú 形式；与第 8 题表现不一致，该形式暂不能标整体掌握。 |
+| 18 | `vivan` | `vivan` | 正确 | `vivir` 的 ustedes 形式；同一份作业内重复正确不算两轮间隔复习。 |
+| 19 | `lea` | `lea` | 正确 | 这里指定 usted，所以 `lea` 正确；与第 5 题的 tú 对照记。 |
+| 20 | `escucha` | `escucha` | 正确 | `escuchar` 的 tú 形式；第 4 题的 usted 则应是 `escuche`。 |
+
+### 最需要改的三件事
+
+1. **先看对谁说，再选形式。** tú 是你，usted 是您，ustedes 是诸位／你们；不要由后面的物品判断命令对象。
+2. **规则词尾不能替代词干变化。** 本次重点是 `cerrar → cierre` 和 `servir → sirva`。这两项已核对 [Collins cerrar 变位表](https://www.collinsdictionary.com/es/conjugacion/espanol/cerrar) 与 [Collins servir 变位表](https://www.collinsdictionary.com/es/conjugacion/espanol/servir)。
+3. **配对练 tú / usted。** `lee / lea`、`bebe / beba`、`escucha / escuche`。同组一题对一题错，不能当作全组已掌握。
+
+| 动词 | tú（你） | usted（您） | ustedes（诸位） |
+| --- | --- | --- | --- |
+| leer | lee | lea | lean |
+| beber | bebe | beba | beban |
+| escuchar | escucha | escuche | escuchen |
+| cerrar | cierra | cierre | cierren |
+| servir | sirve | sirva | sirvan |
+
+这张表是针对作业的纠错补充，不是声称老师课堂逐项教过的新内容。
+
+### 后续复习标记
+
+- `cerrar → cierre`：本课作业错 2 次；本节新命令式即时错误，不计跨课遗忘；后续计划 3 次独立正确复现。
+- `servir → sirva`：本课作业错 1 次；同上，计划 3 次。
+- `tú / usted / ustedes` 的命令形式选择：第 4、5、8 题错；第 17、19、20 题虽正确，但同组掌握不稳。计划 3 次对比测试，当前完整对比通过 0 次。
+- `limpiar → limpie`：第 7 题补答正确；最初空白不计遗忘。记录本次补答正确，但独立回忆条件未确认，不自动清空间隔复习队列。
+- 对 `hablar/vivir/comer`，本次只测到了指定人称；不清掉完整五人称变位表的复习任务，也不抵扣一般现在时队列。
+- 下一课可从以上真实错题抽取旧课复习，附本页来源和答案；本次给出纠正不等于已经独立答对。
 
 ## 老师明确要求记的内容
 
