@@ -29,7 +29,7 @@
 | reloj / lejos（近形干扰） | 手表／远。 | 本次想说手表却说出类似 lejos；没有证据表明 lejos 词义又忘记。 | reloj 旧词再次提取错误 | reloj 第 17 课；lejos 首次课次未定位，第 23 课已有 | reloj 错误课次 18（词义）、23（发音）、25（提取）共 3 次；本课 1 次。lejos 不新增遗忘。 | reloj 计划 5 次、正确 0、待 5，按提取／发音分别验；lejos 维持第 24 课计划 4、正确 0、待 4。 |
 | verde | 绿色的。 | 与 reloj 组合；本次完整最终句未保留。 | 旧词·复现独立性不明 | 第 10 课；第 18 课曾独立正确 | 恢复 reloj 后出现 verde，没有明确单独测试过程；不新增错误或正确次数。 | 常规复现；本次不结算。 |
 
-poder、necesitar、habitantes、quince、cifras、unos、大数等本次只见复习提纲，没有详细回答证据，沿既有状态。老师将发的代词作业尚未收到，不虚构题目或完成率；本课旧知识自测见[课堂笔记](lessons/lesson-25/class-questions.md)。
+poder、necesitar、habitantes、quince、cifras、unos、大数等本次只见复习提纲，没有详细回答证据，沿既有状态。2026-09-19 收到的代词作业已转写至[本课作业](lessons/lesson-25/homework.md)，包含 16 道待答题及 1 道示例；尚未作答，不新增遗忘、不结算正确次数，也不把题中例词自动算作新学词。本课旧知识自测见[课堂笔记](lessons/lesson-25/class-questions.md)。
 
 ## 第 24 课
 
