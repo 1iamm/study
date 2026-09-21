@@ -2,7 +2,7 @@
 
 ## 最新内容
 
-- 最新课程：[第 26 课课中问题](lessons/lesson-26/class-questions.md)｜[课后作业](lessons/lesson-26/homework.md)（老师原题待收到，部分词形待确认；第 25 课原有资料缺口仍保留）
+- 最新课程：[第 26 课课中问题](lessons/lesson-26/class-questions.md)｜[课后作业](lessons/lesson-26/homework.md)（15 道三选一原题已收到，待作答；部分词形待确认，第 25 课原有资料缺口仍保留）
 - 全部课程：[倒序课程索引](lessons/README.md)
 - 全部词汇：[西班牙语总词汇表](vocabulary.md)
 
