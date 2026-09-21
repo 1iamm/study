@@ -2,7 +2,7 @@
 
 来源：2026-09-20 课程 Record 整理稿，以及 2026-09-21 补充收到的《además , además de , excepto三选一填空.docx》。附件已转换为下方文字，未上传原 Word；正式任务、本课理解自测与旧课间隔复习分开。
 
-## 一、老师正式布置的练习：三选一填空（已收到，待作答）
+## 一、老师正式布置的练习：三选一填空（已作答、已批改）
 
 | 项目 | 已确认情况 |
 | --- | --- |
@@ -13,8 +13,8 @@
 | 材料接收与原约定 | 2026-09-21 已收到你提供的附件。课堂原约定为老师于次日晚上之前发材料，不是你的交作业期限；本次不推断老师实际发送的具体时刻。 |
 
 - [x] 2026-09-21 收到 15 道老师原题，转换为本文件中的文字。
-- [ ] 先自己作答，再交给 AI 批改。
-- [ ] 依据真实作答更新对应能力的复习状态。
+- [x] 2026-09-21 收到个人答案，逐题批改。
+- [x] 按选词与拼写分别更新复习状态；拼写纠错后的复测仍待完成。
 
 ### 原题
 
@@ -38,7 +38,55 @@
 | 14 | `Todos trajeron el libro __________ Lucas.` | 所有人都带了书，除了卢卡斯。 |
 | 15 | `El piso tiene tres habitaciones; __________, tiene un balcón amplio.` | 这套公寓有三间卧室；另外，还有一个宽敞阳台。 |
 
-当前尚未作答，不增加遗忘次数、不结算正确次数；题中出现的其他词和动词形式也不自动视为本节新学或正式背诵要求。
+### 我的答案与批改（2026-09-21）
+
+**选词／语义判断 15/15 正确。**第 3、6、9、11、14 题均把 excepto 拼成 exepto，少了 c：这是同一个拼写问题在本轮出现 5 次，不是 5 次词义遗忘。第 1 题完整句另需 de + el → del；题面已预写 el，因此不将其算作三选一选词错误。
+
+粘贴中的星号、HTML 空格与填空线不作为语言错误；además_de 按 además de 理解，正式书写用空格。规范句统一处理句首大小写及必要标点，不将这些格式调整混入选词成绩。
+
+| 题号 | 我的选项（去除格式符） | 结果 | 规范句 |
+| --- | --- | --- | --- |
+| 1 | además de | 选词正确；整句须缩合 | `Además del español, yo aprendo portugués.` |
+| 2 | además | 正确 | `La casa es grande. Además, es muy luminosa.` |
+| 3 | exepto | 意思选对，拼写改 excepto | `Todos mis compañeros viajan excepto yo.` |
+| 4 | Además de | 正确 | `Además de trabajar, cuido a mi abuela.` |
+| 5 | además | 正确 | `El café está rico. Además, es barato.` |
+| 6 | exepto | 意思选对，拼写改 excepto | `Todos comen carne excepto mi hermana. Ella solo come verduras.` |
+| 7 | Además de | 正确 | `Además de ti, cuatro personas asistieron a la clase.` |
+| 8 | además | 选词正确；规范句补逗号 | `Hace mucho frío. Además, llueve toda la tarde.` |
+| 9 | exepto | 意思选对，拼写改 excepto | `La tienda abre todos los días excepto los martes.` |
+| 10 | Además de | 正确 | `Además de la matemática, estudio historia en la universidad.` |
+| 11 | exepto | 意思选对，拼写改 excepto | `A todos les gusta la película excepto a mí.` |
+| 12 | Además | 正确 | `Él lee mucho. Además, escribe artículos para periódicos.` |
+| 13 | Además de | 正确 | `Además de practicar deportes, me gusta escuchar música.` |
+| 14 | exepto | 意思选对，拼写改 excepto | `Todos trajeron el libro excepto Lucas.` |
+| 15 | Además | 选词正确；分号后通常小写 | `El piso tiene tres habitaciones; además, tiene un balcón amplio.` |
+
+### 本轮纠错重点
+
+1. **excepto 的拼写：**`e-x-c-e-p-t-o`，记住 x 后还有 c。第 3、6、9、11、14 题都正确表达了“排除”，只是拼写相同地漏写 c。
+2. **第 1 题 de + el → del：**本题 el 是 español 前的定冠词，完整句写 `Además del español...`，不写 `Además de el español...`。这不是把选项改成第四种含义，而是填入 además de 后与后面的 el 缩合。原题未给缩合留出方便的空格，保留为题面限制；不据此新增你的 del 遗忘记录。若是代词 él（他），则不是同一种缩合情况。
+3. **第 8、15 题的标点／大小写：**第 8 题原文未预写逗号，规范成句时补为 `Además, llueve...`，不计你漏掉题面标点；第 15 题分号后写小写 `además`。
+
+你本轮已经分清：además 追加信息；además de 引出包含在内的另一项；excepto 排除某项。第 7 题包括“你”和另外四人，第 3、6、9、11、14 题则排除所提及的人或日期。
+
+### 后续复习记录（AI 整理，非老师新增作业）
+
+| 项目 | 本次证据 | 更新后的安排 |
+| --- | --- | --- |
+| además 的选择 | 第 2、5、8、12、15 题都选对 | 原计划 2 次；本轮正确 1 次；待 1 次，不按五题算五轮。 |
+| además de / excepto 的包含与排除对比 | 所有对应题选词正确，拼写另计 | 原计划 3 次；本轮正确 1 次；待 2 次，不宣布自由造句也已通过。 |
+| excepto 拼写 | 本课课后首次可定位，5 处 exepto | 重点拼写计划 2 次；正确 0；待 2。同课重复不增加五个遗忘课次；本课新词出错也不冒充历史旧词遗忘。 |
+| del 缩合 | 本题填空设置导致 de 与 el 分开 | 记录规范整句，不因原题限制新增个人遗忘计数；旧课缩合复习状态不变。 |
+
+复测问题与答案：
+
+| 自测问题 | 答案 |
+| --- | --- |
+| “除……以外（排除）”的西语单词如何完整拼写？ | excepto，e-x-c-e-p-t-o。 |
+| 检查并改写：Todos viajan exepto yo. | Todos viajan excepto yo. |
+
+先遮住答案独立写，再核对；阅读纠错或照抄答案不计复测正确。题中其他单词与动词形式不自动新增为本课背诵要求。
 
 ## 二、老师明确要求记忆的内容
 
@@ -79,6 +127,6 @@
 
 ## 五、接下来可补给我的资料
 
-1. 上方 15 道练习的个人答案，按题号发来即可批改。
+1. 下次复测 excepto 的拼写；本轮 15 道练习答案与纠错已记录。
 2. 明确要背的第三个昆虫词。
 3. 本课教材截图，核对正式“大约”副词、语言名称和页码。
