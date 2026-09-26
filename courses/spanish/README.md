@@ -2,8 +2,8 @@
 
 ## 最新内容
 
-- 最新课程：[第 26 课课中问题](lessons/lesson-26/class-questions.md)｜[课后作业](lessons/lesson-26/homework.md)（15 道三选一已批改：选词全对，excepto 拼写待巩固；部分词形待确认，第 25 课原有资料缺口仍保留）
-- 新增作业：第 26 课补充 **150 词写作**，要求已转为文字放在课后作业开头，待完成。
+- 最新课程：[第 27 课课中问题](lessons/lesson-27/class-questions.md)｜[课后作业](lessons/lesson-27/homework.md)（新作业材料待收到，“前天”课堂词形待确认；第 25 课资料缺口仍保留）
+- 继续完成：[第 26 课 150 词写作](lessons/lesson-26/homework.md)，已开始写、尚未收到完整作文，未完成正式批改；excepto 的书面拼写也待复测。
 - 全部课程：[倒序课程索引](lessons/README.md)
 - 全部词汇：[西班牙语总词汇表](vocabulary.md)
 
