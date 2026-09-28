@@ -2,8 +2,8 @@
 
 ## 最新内容
 
-- 最新课程：[第 27 课课中问题](lessons/lesson-27/class-questions.md)｜[课后作业](lessons/lesson-27/homework.md)（新作业材料待收到，“前天”课堂词形待确认；第 25 课资料缺口仍保留）
-- 继续完成：[第 26 课 150 词写作](lessons/lesson-26/homework.md)，已开始写、尚未收到完整作文，未完成正式批改；excepto 的书面拼写也待复测。
+- 最新课程：[第 28 课课中问题](lessons/lesson-28/class-questions.md)｜[作文原稿、纠错与重写作业](lessons/lesson-28/homework.md)（alumno(s)、aprobar 必背及 marrón 拼写已由你确认；文章页码未明确）
+- 继续完成：[第 28 课作文重写](lessons/lesson-28/homework.md)，承接第 26 课 150 词任务；原稿和课堂批注已转为文字，重写稿待完成。excepto 拼写、第 27 课“前天”词形及第 25 课资料缺口仍保留。
 - 全部课程：[倒序课程索引](lessons/README.md)
 - 全部词汇：[西班牙语总词汇表](vocabulary.md)
 
