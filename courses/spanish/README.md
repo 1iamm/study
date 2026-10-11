@@ -2,8 +2,9 @@
 
 ## 最新内容
 
-- 最新课程：[第 29 课课中问题](lessons/lesson-29/class-questions.md)｜[记忆要求与待完成作业](lessons/lesson-29/homework.md)（第 65 页背词范围、电／电力和眼镜的本次词形待确认；无明确新书面作业）
-- 继续完成：[第 28 课作文重写](lessons/lesson-28/homework.md)，承接第 26 课 150 词任务；原稿和课堂批注已转为文字，重写稿待完成。excepto 拼写、第 27 课“前天”词形及第 25 课资料缺口仍保留。
+- 最新课程：[第 30 课课中问题](lessons/lesson-30/class-questions.md)｜[6 道翻译作业与老师文档文字版](lessons/lesson-30/homework.md)。必记 allí 已确认；录音仅有 00:23—65:17 的可读内容，不称整段恢复。
+- 作文修改稿已收到并收入第 30 课；仍有表达需要规范，也未达到第 26 课原定 150 词。第 28 课及 [10 月 7 日作文纠错](vocabulary.md#writing-review-20261007)继续优先复习；重看同稿不重复算错。
+- 旧课待确认事项仍保留：第 29 课第 65 页词表范围及不清词形、excepto 拼写、第 27 课“前天”词形、第 25 课资料缺口。
 - 全部课程：[倒序课程索引](lessons/README.md)
 - 全部词汇：[西班牙语总词汇表](vocabulary.md)
 
