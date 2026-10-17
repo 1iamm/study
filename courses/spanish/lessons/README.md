@@ -4,6 +4,7 @@
 
 | 课次 | 课中问题与知识点 | 课后作业 |
 | --- | --- | --- |
+| 第 32 课 | [查看](lesson-32/class-questions.md) | [查看](lesson-32/homework.md) |
 | 第 31 课 | [查看](lesson-31/class-questions.md) | [查看](lesson-31/homework.md) |
 | 第 30 课 | [查看](lesson-30/class-questions.md) | [查看](lesson-30/homework.md) |
 | 第 29 课 | [查看](lesson-29/class-questions.md) | [查看](lesson-29/homework.md) |
