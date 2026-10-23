@@ -2,7 +2,7 @@
 
 ## 最新内容
 
-- 最新课程：[第35课笔记、语法与旧课复习](lessons/lesson-35/class-questions.md)｜[背诵及检查要求](lessons/lesson-35/homework.md)。10月21日上课、10月22日整理：问路、tener que、命令式及个人薄弱项。只生成新内容与尚未熟练能力；截图核实课文，Record整理覆盖00:07—60:57、末句未完且无明确final，未核听原音。未知市场词保留待确认，不猜补。旧课复习4个核心题＋8个词汇题，附答案及来源。
+- 最新课程：[第36课笔记、语法与旧课复习](lessons/lesson-36/class-questions.md)｜[背诵及下节检查](lessons/lesson-36/homework.md)。10月23日：报时、营业时间、星期及个人薄弱项；区分Son las tres与cierra a las tres。只收新用法和未熟练能力，已核对reloj、mañana、fiesta等旧课关系。导出资料报告覆盖00:02—61:12，末句完整但无明确final，未核听原音；发烧必记项词形待确认，不猜补。旧课复习4个核心题＋8个词汇题，附答案及来源。
 - 前课材料：[第33课《命令式》讲义](lessons/lesson-33/class-questions.md)已转文字，不上传Word；不把讲义自动当正式作业。
 - 最新批改：[第 32 课与格作业](lessons/lesson-32/homework.md)于 10 月 17 日批改，**15/15 正确**。原答与第 7 题 ayudar 用法均保留；完整造句另测。nuevo／nueva 的旧课“必记”指向仍待确认。
 - 前课作业：[第 31 课 gustar 翻译批改](lessons/lesson-31/homework.md)已保留 10 月 14 日原答与解释；喜欢者代词、tú 重音及冠词仍是优先复测项。
