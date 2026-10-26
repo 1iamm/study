@@ -4,6 +4,7 @@
 - 来源：用户导出的 `spanish_lesson_37.md`、课堂手记及《Horarios de trabajo》截图；历史关系对照第1—36课及总词汇表。未直接核听原音或读取完整逐句转写，不上传原附件或完整转写。
 - 覆盖：导出资料报告可读 **00:02—62:41**，末句“好，再见”完整，有告别但无独立final标记；有效音频总时长未知，不保证转写无缺漏。说话者编号有混标，损坏的原答不补造。
 - 进度：过去分词构成→ser被动与estar状态→旧词、星期、时间→工作时间文章开头。截图下方被裁切，不恢复后文；Manuel人物段未见逐项讲解证据，不据图扩充全部词汇。
+- 2026-10-26补充：老师《过去分词a1.docx》的正文及两张规则图见[讲义补充](#teacher-handout-20261026)；《过去分词练习.docx》的15道题已收入[作业页](homework.md)，待作答。
 
 ## 一、老师明确要求记住的内容
 
@@ -166,7 +167,7 @@ miércoles＝周三，jueves＝周四，viernes＝周五。本课周五被带in-
 1. 第36课La peluquería cierra a las tres本次未见完整检查，保持待独立复测；疑似理发店词题不评分。
 2. 发烧必记项本次仍无可靠对应词形；沿第36课待确认，不猜、不追问回忆。
 3. ventana原答受损；词形由第21课作业核实，不据教师“上节刚学”重设历史，不将忘关窗动词等同忘窗户名词。
-4. “作业被完成”完整原句、星期具体错音、各人称完整作答不可靠，不复原；没有可靠题面就不编正式练习。
+4. 10月26日讲义已提供La tarea es terminada，可作为老师书面例句；课堂当时的完整原答仍不可恢复。星期具体错音、各人称完整作答继续不补造；正式练习以已收到的15道原题为准。
 5. 截图人物段及裁切后文未证实实际逐项讲授；不作为本课新增词表。文化与作息描述只保留教材语境，不当普遍事实。
 
 <a id="prior-review"></a>
@@ -191,5 +192,59 @@ miércoles＝周三，jueves＝周四，viernes＝周五。本课周五被带in-
 | 我想要／他想要 | quiero／quiere | 第16、35课 |
 | 红色的花 | flores rojas | 第31课10月14日作业 |
 | 我们继续。 | Seguimos. | 第7、34—35课 |
+
+<a id="teacher-handout-20261026"></a>
+## 八、10月26日老师讲义补充
+
+《过去分词a1.docx》作为第37课配套讲义收录，包含正文和两张嵌入规则图。以下保留教学内容与例句，中文解释为整理补充；不是学生新作答，也不将整份讲义自动升级为逐词必背任务。配套15道填空见[作业页](homework.md)。
+
+### 过去分词的构成
+
+讲义第一张图的五组对应：
+
+| 动词原形 | 过去分词 | 讲义英语对应 | 中文原形义 |
+| --- | --- | --- | --- |
+| hablar | hablado | spoken | 说话 |
+| estudiar | estudiado | studied | 学习 |
+| comer | comido | eaten | 吃 |
+| beber | bebido | drunk | 喝 |
+| vivir | vivido | lived | 生活、居住 |
+
+规则是去掉-ar接-ado，去掉-er或-ir接-ido；这是规则形式，不覆盖escrito等不规则形式。vivido补充了此前表中缺少的规则-ir例子，不把熟悉的vivir原形重新标成新词。
+
+### 被动动作及性数配合
+
+讲义用ser＋过去分词对照英语be＋过去分词。原例 **La tarea es terminada.**，英语The assignment is finished.，中文原注“这个作业被完成了”。这里es仍是现在时，中文的“了”不能作为已学过去时的依据；讲义是在展示被动结构，不表示这是所有语境下最自然的单独说法。
+
+| 讲义原例 | 中文说明 |
+| --- | --- |
+| El libro es escrito. | 这本书被写成；libro阳性单数，配es、escrito。 |
+| La carta es escrita por mi abuelo. | 这封信由我爷爷写；carta阴性单数，配es、escrita。 |
+| Los libros son escritos. | 这些书被写成；阳性复数配son、escritos。 |
+| Las cartas son escritas. | 这些信被写成；阴性复数配son、escritas。 |
+
+英语written不随上述名词性数变化；本课西语被动结构中的escrito需要变化。Las cartas son escritas此前作为补充例句出现，现在有老师讲义来源；这不代表学生已独立掌握。
+
+### 结果状态与英语对照
+
+| 讲义原例 | 英语对照 | 中文 |
+| --- | --- | --- |
+| La puerta está cerrada. | The door is closed. | 门关着，处于关闭状态。 |
+| Las ventanas están abiertas. | The windows are open. | 窗户开着。 |
+
+讲义第二张图对照La puerta es cerrada与La puerta está cerrada：前者强调门被关上的动作，后者强调门关着的状态。英语The door is closed可能需要上下文才能区别。这里的对照限定在本课结构，不概括所有ser/estar用法。
+
+### 过去分词作形容词
+
+| 讲义原例或搭配 | 英语对照 | 中文 |
+| --- | --- | --- |
+| Es un problema complicado. | It is a complicated problem. | 这是一个复杂的问题。 |
+| Tengo un teléfono roto. | I have a broken phone. | 我有一部坏掉的手机。 |
+| teléfono roto | — | 坏掉的电话／手机；阳性单数。 |
+| ventana rota | — | 破损的窗户；阴性单数。 |
+
+此处complicado、roto描述名词的性质或状态，需要与所修饰名词配合；不是所有带ser的句子都是被动。Es un problema complicado中的ser后面是“一个复杂的问题”这个名词短语，与ser直接接过去分词构成被动不同。
+
+roto曾在第2课仅作为r发音示范出现，没有词义教学证据；“破损、坏掉”及roto/rota配合以本次讲义为首次可靠语义记录。讲义未附独立作答，不增加遗忘或正确次数。新小练习仍使用前文语法自测，不另外堆一套任务。
 
 词汇来源、历史能力及待完成次数详见[总词汇表](../../vocabulary.md)。本课新被动和过去分词规则不冒充旧复习。
