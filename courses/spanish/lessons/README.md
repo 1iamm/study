@@ -4,6 +4,7 @@
 
 | 课次 | 课中问题与知识点 | 课后作业 |
 | --- | --- | --- |
+| 第 38 课 | [工作时间阅读、六条手记与语法](lesson-38/class-questions.md) | [朗读录音、背词及volver下节检查](lesson-38/homework.md) |
 | 第 37 课 | [笔记与10月26日补充讲义](lesson-37/class-questions.md) | [过去分词批改，补答后12/15](lesson-37/homework.md#answers-20261026) |
 | 第 36 课 | [查看](lesson-36/class-questions.md) | [查看](lesson-36/homework.md) |
 | 第 35 课 | [查看](lesson-35/class-questions.md) | [查看](lesson-35/homework.md) |
