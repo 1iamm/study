@@ -2,7 +2,9 @@
 
 ## 最新内容
 
-- 最新课程：[第38课笔记、语法与旧课复习](lessons/lesson-38/class-questions.md)｜[朗读录音、背词及volver下节检查](lessons/lesson-38/homework.md)。10月27日：工作时间阅读、salgo、cuando、接送孩子的a、volver及购物/因果辨析，六条手记已校正。只收新或仍不熟练能力，largo等可靠词义进步更新旧条目。导出整理稿报告00:00—63:20，末句未完、无final，未核听原音；朗读精确起止未明确，不把整页当作业。旧课复习4个核心题＋8个词汇题，附答案及来源。
+- 最新课程：[第39课笔记、语法与旧课复习](lessons/lesson-39/class-questions.md)｜[下次课堂要求与作业状态](lessons/lesson-39/homework.md)。10月31日：日常作息、hacer deporte、gustar代词、开放状态配合及mientras；四项手记已核对，hacemos/hacéis书写纠正不冒充课堂原答。只收新或仍薄弱能力，fin de semana成功更新旧条目，madrugada先对后忘两种证据都保留。导出稿报告00:01—67:10、完整告别，未核听原音或取得独立final状态。没有可靠新增正式提交作业，gustar下次流利度等要求单独保留。旧课复习4个核心题＋8个词汇题，附答案来源。
+
+- 前课任务：[第38课朗读录音、背词与volver检查](lessons/lesson-38/homework.md)尚无新的完整完成证据；第39课回家句需提示，不视为volver整表通过。
 
 - 前课内容：[第37课笔记与补充讲义](lessons/lesson-37/class-questions.md)｜[过去分词15道填空及批改](lessons/lesson-37/homework.md)。10月25日课堂、26日补充材料与作答分开保留；第7—9题未在第38课复测，不自动结清。第36课发烧词形等旧待确认事项仍保留。
 - 前课材料：[第33课《命令式》讲义](lessons/lesson-33/class-questions.md)已转文字，不上传Word；不把讲义自动当正式作业。
