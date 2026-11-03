@@ -2,7 +2,9 @@
 
 ## 最新内容
 
-- 最新课程：[第39课笔记、语法与旧课复习](lessons/lesson-39/class-questions.md)｜[下次课堂要求与作业状态](lessons/lesson-39/homework.md)。10月31日：日常作息、hacer deporte、gustar代词、开放状态配合及mientras；四项手记已核对，hacemos/hacéis书写纠正不冒充课堂原答。只收新或仍薄弱能力，fin de semana成功更新旧条目，madrugada先对后忘两种证据都保留。导出稿报告00:01—67:10、完整告别，未核听原音或取得独立final状态。没有可靠新增正式提交作业，gustar下次流利度等要求单独保留。旧课复习4个核心题＋8个词汇题，附答案来源。
+- 最新课程：[第40课笔记、语法与旧课复习](lessons/lesson-40/class-questions.md)｜[背词与下次检查](lessons/lesson-40/homework.md)。11月2日：博物馆阅读、面积读法、覆盖与形状搭配、偏好理由；只收新内容和薄弱能力，novia累计四个明确遗忘课次，熟词新搭配单独追踪。导出稿报告00:00—59:09、无明确结束标记，本次未核听原音，不宣称整段录音完整。老师要求先背指定词，下次检查猫狗及理由表达，未确认新书面提交任务。旧课复习4个核心题＋8个词汇题，附答案来源。
+
+- 前课内容：[第39课笔记、语法与旧课复习](lessons/lesson-39/class-questions.md)｜[下次课堂要求与作业状态](lessons/lesson-39/homework.md)。10月31日：日常作息、hacer deporte、gustar代词、开放状态配合及mientras；四项手记已核对，hacemos/hacéis书写纠正不冒充课堂原答。只收新或仍薄弱能力，fin de semana成功更新旧条目，madrugada先对后忘两种证据都保留。导出稿报告00:01—67:10、完整告别，未核听原音或取得独立final状态。没有可靠新增正式提交作业，gustar下次流利度等要求单独保留。旧课复习4个核心题＋8个词汇题，附答案来源。
 
 - 前课任务：[第38课朗读录音、背词与volver检查](lessons/lesson-38/homework.md)尚无新的完整完成证据；第39课回家句需提示，不视为volver整表通过。
 
