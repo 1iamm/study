@@ -4,6 +4,7 @@
 
 | 课次 | 课中问题与知识点 | 课后作业 |
 | --- | --- | --- |
+| 第 43 课 | [llamarse、现在完成时与自我介绍听读](lesson-43/class-questions.md) | [每天阅读、记词与下节分词检查](lesson-43/homework.md) |
 | 第 42 课 | [作文讲评、词性辨析与旧词提取](lesson-42/class-questions.md) | [作文修改与近期复习安排](lesson-42/homework.md) |
 | 第 41 课 | [食物表达、将来计划与服务阅读](lesson-41/class-questions.md) | [周六作文、十二个月及课文朗读](lesson-41/homework.md) |
 | 第 40 课 | [博物馆阅读、长句与偏好理由](lesson-40/class-questions.md) | [背词与下次课堂检查](lesson-40/homework.md) |
