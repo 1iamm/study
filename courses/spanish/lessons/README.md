@@ -4,6 +4,7 @@
 
 | 课次 | 课中问题与知识点 | 课后作业 |
 | --- | --- | --- |
+| 第 45 课 | [聚会服务广告、代词搭配与听辨](lesson-45/class-questions.md) | [听读《¿Cómo estás?》与背词](lesson-45/homework.md) |
 | 第 44 课 | [人物关系、问候与连读听辨](lesson-44/class-questions.md) | [11月17日精听、背词与haber检查](lesson-44/homework.md) |
 | 第 43 课 | [llamarse、现在完成时与自我介绍听读](lesson-43/class-questions.md) | [每天阅读、记词与下节分词检查](lesson-43/homework.md) |
 | 第 42 课 | [作文讲评、词性辨析与旧词提取](lesson-42/class-questions.md) | [作文修改与近期复习安排](lesson-42/homework.md) |
