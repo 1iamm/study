@@ -2,7 +2,9 @@
 
 ## 最新内容
 
-- 最新课程：[第46课星期、日期与课文语法](lessons/lesson-46/class-questions.md)｜[读课文、背词与星期检查](lessons/lesson-46/homework.md)。11月20日：星期、月份、日期及encargarse de人称；新词和薄弱能力入表，提示恢复不算独立通过。老师明确下节考星期，要求记cumpleaños和Alemania；读课文、背词范围与期限未确认。整理稿报告00:02—61:29、无独立结束标志，本次未核听原音。旧课复习4个核心题及8个词汇题，附答案来源。
+- 最新课程：[第47课代词位置与《La casa de Juan》听读](lessons/lesson-47/class-questions.md)｜[书面作业22题](lessons/lesson-47/homework.md)。11月24日：代词前置与原形后连写、después de与siguiente、年龄比较及家庭段听辨；老师要求记picante和beso。作业含15道改写、7道填空，保留原例题和空格，未注明正式截止日期。课堂只确认听到Trabaja en un hospital；整理稿报告00:16—61:59，本次未核听原音。另有[新词和薄弱项](vocabulary.md#第-47-课)及旧课自测。
+
+- 前课内容：[第46课星期、日期与课文语法](lessons/lesson-46/class-questions.md)｜[读课文、背词与星期检查](lessons/lesson-46/homework.md)。11月20日：星期、月份、日期及encargarse de人称；新词和薄弱能力入表，提示恢复不算独立通过。老师明确下节考星期，要求记cumpleaños和Alemania；读课文、背词范围与期限未确认。整理稿报告00:02—61:29、无独立结束标志，本次未核听原音。旧课复习4个核心题及8个词汇题，附答案来源。
 
 - 前课内容：[第45课广告、语法与听辨](lessons/lesson-45/class-questions.md)｜[听读《¿Cómo estás?》与背词](lessons/lesson-45/homework.md)。11月18日：聚会服务广告第一段、ningún、lo回指、ocuparse de和人称听辨；只补新知识与薄弱能力，旧词义的独立成功更新原行。杯子、饮品与fiesta聚会义不误标新词。beber只要求识别，背词范围待确认，不扩成整页广告必背；未指定听读时长、次数或提交期限。导出稿报告00:30—65:20，本次未核听原音，无独立结束标记。旧课复习4个核心题＋8个词汇题，附答案来源。
 
