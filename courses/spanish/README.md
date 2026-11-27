@@ -2,7 +2,9 @@
 
 ## 最新内容
 
-- 最新课程：[第47课代词位置与《La casa de Juan》听读](lessons/lesson-47/class-questions.md)｜[书面作业22题](lessons/lesson-47/homework.md)。11月24日：代词前置与原形后连写、después de与siguiente、年龄比较及家庭段听辨；老师要求记picante和beso。作业含15道改写、7道填空，保留原例题和空格，未注明正式截止日期。课堂只确认听到Trabaja en un hospital；整理稿报告00:16—61:59，本次未核听原音。另有[新词和薄弱项](vocabulary.md#第-47-课)及旧课自测。
+- 最新课程：[第48课Juan的早晨与起居动词](lessons/lesson-48/class-questions.md)｜[背前半单词与下次朗读](lessons/lesson-48/homework.md)。11月26日：从读高中讲到早餐、送弟妹及乘公交，重点是起居代词和早晚表达。作业词表的前半分界未明确。整理稿报告00:09—65:35，本次未核听原音，未确认有新的独立课文听力。[本课词汇及薄弱项](vocabulary.md#第-48-课)。
+
+- 前课内容：[第47课代词位置与《La casa de Juan》听读](lessons/lesson-47/class-questions.md)｜[书面作业与19/22批改](lessons/lesson-47/homework.md#第47课作答与批改)。11月24日：代词前置与原形后连写、después de与siguiente、年龄比较及家庭段听辨；老师要求记picante和beso。听力确认到Trabaja en un hospital。已补录作业三处拼写或用词问题，不算第48课新增失误。
 
 - 前课内容：[第46课星期、日期与课文语法](lessons/lesson-46/class-questions.md)｜[读课文、背词与星期检查](lessons/lesson-46/homework.md)。11月20日：星期、月份、日期及encargarse de人称；新词和薄弱能力入表，提示恢复不算独立通过。老师明确下节考星期，要求记cumpleaños和Alemania；读课文、背词范围与期限未确认。整理稿报告00:02—61:29、无独立结束标志，本次未核听原音。旧课复习4个核心题及8个词汇题，附答案来源。
 

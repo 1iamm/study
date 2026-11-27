@@ -4,7 +4,8 @@
 
 | 课次 | 课中问题与知识点 | 课后作业 |
 | --- | --- | --- |
-| 第 47 课 | [代词位置与《La casa de Juan》听读](lesson-47/class-questions.md) | [代词改写及动词形式填空22题](lesson-47/homework.md) |
+| 第 48 课 | [Juan的早晨、起居动词与公交](lesson-48/class-questions.md) | [背前半单词与下次朗读](lesson-48/homework.md) |
+| 第 47 课 | [代词位置与《La casa de Juan》听读](lesson-47/class-questions.md) | [22题及19/22批改](lesson-47/homework.md) |
 | 第 46 课 | [星期、日期与负责一门课](lesson-46/class-questions.md) | [读课文、背词与星期检查](lesson-46/homework.md) |
 | 第 45 课 | [聚会服务广告、代词搭配与听辨](lesson-45/class-questions.md) | [听读《¿Cómo estás?》与背词](lesson-45/homework.md) |
 | 第 44 课 | [人物关系、问候与连读听辨](lesson-44/class-questions.md) | [11月17日精听、背词与haber检查](lesson-44/homework.md) |
